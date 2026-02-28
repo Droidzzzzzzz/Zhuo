@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hello World: Why I Built This Site — Zhuo</title>
+  <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+
+  <nav>
+    <div class="container">
+      <a href="../index.html" class="nav-logo">Z.</a>
+      <ul class="nav-links">
+        <li><a href="../index.html">Home</a></li>
+        <li><a href="../portfolio.html">Portfolio</a></li>
+        <li><a href="../blog.html" class="active">Blog</a></li>
+        <li><a href="../news.html">News Pulse</a></li>
+        <li><a href="../resume.html">Resume</a></li>
+      </ul>
+      <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <main class="post container">
+    <h1>Hello World: Why I Built This Site</h1>
+    <p class="post-meta">February 27, 2026 &middot; 3 min read</p>
+
+    <div class="post-content">
+      <p>Every developer needs a home on the internet. Not a profile page on someone else's platform — a real, honest-to-goodness website that you own and control. This is mine.</p>
+
+      <h2>Why plain HTML and CSS?</h2>
+      <p>In a world of React, Next.js, Astro, Hugo, and a hundred other tools, I went with the simplest possible approach: hand-written HTML and CSS. No build step. No dependencies. No <code>node_modules</code> folder. Just files that a browser can read.</p>
+      <p>There are a few reasons for this choice:</p>
+
+      <blockquote>
+        The best technology is the one you don't have to maintain.
+      </blockquote>
+
+      <p><strong>Zero maintenance.</strong> There are no packages to update, no breaking changes to fix, no build pipelines to debug. This site will work exactly the same in five years as it does today.</p>
+      <p><strong>Instant loading.</strong> Static HTML is the fastest thing on the web. No JavaScript bundle to download and parse. The browser gets HTML and CSS and renders it immediately.</p>
+      <p><strong>Full control.</strong> Every line of this site is something I wrote and understand. There's no magic, no abstraction layer, no framework opinions to work around.</p>
+
+      <h2>How to add a new blog post</h2>
+      <p>Adding a new post is simple:</p>
+      <pre><code>1. Copy an existing post HTML file
+2. Update the title, date, and content
+3. Add a link to it in blog.html
+4. Deploy</code></pre>
+      <p>That's it. No CLI commands, no content management system, no Markdown compilation step. Just HTML.</p>
+
+      <h2>Where it's hosted</h2>
+      <p>This site is hosted for free on GitHub Pages (though Netlify or Vercel would work just as well). The total cost of running this website is $0 per month. If I add a custom domain, that's about $12 per year.</p>
+
+      <h2>What's next</h2>
+      <p>I'll be writing here regularly about what I'm building, what I'm learning, and random things I find interesting. If you want to follow along, bookmark this page or connect with me on your platform of choice.</p>
+      <p>Thanks for reading. Here's to keeping things simple.</p>
+    </div>
+
+    <div style="margin-top: 60px; padding-top: 24px; border-top: 1px solid rgba(255,255,255,0.06);">
+      <a href="../blog.html" class="btn btn--outline">&larr; Back to Blog</a>
+    </div>
+  </main>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Zhuo. Built with nothing but HTML &amp; CSS.</p>
+    </div>
+  </footer>
+
+</body>
+</html>

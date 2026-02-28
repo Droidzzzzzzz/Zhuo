@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfolio — Zhuo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <nav>
+    <div class="container">
+      <a href="index.html" class="nav-logo">Z.</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html" class="active">Portfolio</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="news.html">News Pulse</a></li>
+        <li><a href="resume.html">Resume</a></li>
+      </ul>
+      <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <section style="padding-top: 140px;">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="gradient-text">Portfolio</h2>
+        <p>A selection of projects I've built and things I'm proud of.</p>
+      </div>
+
+      <div class="card-grid">
+        <div class="card">
+          <h3>Project Alpha</h3>
+          <p>A full-stack web application for managing tasks with real-time collaboration features and a beautiful dashboard.</p>
+          <div class="tags">
+            <span class="tag">React</span>
+            <span class="tag tag--coral">Node.js</span>
+            <span class="tag tag--teal">WebSocket</span>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>DataViz Toolkit</h3>
+          <p>An open-source library for creating interactive data visualizations with minimal configuration and maximum customization.</p>
+          <div class="tags">
+            <span class="tag tag--amber">D3.js</span>
+            <span class="tag">TypeScript</span>
+            <span class="tag tag--teal">SVG</span>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Weather App</h3>
+          <p>A sleek weather application with location-based forecasts, animated backgrounds, and a 7-day outlook.</p>
+          <div class="tags">
+            <span class="tag">JavaScript</span>
+            <span class="tag tag--coral">REST API</span>
+            <span class="tag tag--amber">CSS</span>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>CLI DevTools</h3>
+          <p>A collection of command-line productivity tools for developers — project scaffolding, code generation, and more.</p>
+          <div class="tags">
+            <span class="tag tag--teal">Python</span>
+            <span class="tag">CLI</span>
+            <span class="tag tag--coral">Open Source</span>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Personal Blog Engine</h3>
+          <p>A minimalist static blog engine that compiles Markdown to beautiful HTML pages with zero runtime dependencies.</p>
+          <div class="tags">
+            <span class="tag tag--amber">Markdown</span>
+            <span class="tag">HTML</span>
+            <span class="tag tag--teal">CSS</span>
+          </div>
+        </div>
+
+        <div class="card">
+          <h3>Pixel Art Editor</h3>
+          <p>A browser-based pixel art editor with layers, animation timeline, and export to PNG/GIF. Built purely with Canvas API.</p>
+          <div class="tags">
+            <span class="tag">Canvas</span>
+            <span class="tag tag--coral">JavaScript</span>
+            <span class="tag tag--amber">Creative</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Zhuo. Built with nothing but HTML &amp; CSS.</p>
+    </div>
+  </footer>
+
+</body>
+</html>

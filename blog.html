@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog — Zhuo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <nav>
+    <div class="container">
+      <a href="index.html" class="nav-logo">Z.</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="blog.html" class="active">Blog</a></li>
+        <li><a href="news.html">News Pulse</a></li>
+        <li><a href="resume.html">Resume</a></li>
+      </ul>
+      <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <section style="padding-top: 140px;">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="gradient-text">Blog</h2>
+        <p>Thoughts on code, creativity, and everything in between.</p>
+      </div>
+
+      <div class="blog-list">
+        <a href="blog/hello-world.html" class="blog-item">
+          <div class="blog-date">
+            <span class="month">Feb</span>
+            <span class="day">27</span>
+          </div>
+          <div class="blog-body">
+            <h3>Hello World: Why I Built This Site</h3>
+            <p>The story behind this website — why I chose to go with plain HTML and CSS, and why simple is often better.</p>
+            <div class="tags" style="margin-top: 10px;">
+              <span class="tag">Personal</span>
+              <span class="tag tag--teal">Web Dev</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" class="blog-item">
+          <div class="blog-date">
+            <span class="month">Feb</span>
+            <span class="day">20</span>
+          </div>
+          <div class="blog-body">
+            <h3>Five Tools That Changed My Workflow</h3>
+            <p>A roundup of developer tools that have genuinely made me more productive this year.</p>
+            <div class="tags" style="margin-top: 10px;">
+              <span class="tag tag--amber">Productivity</span>
+              <span class="tag">Tools</span>
+            </div>
+          </div>
+        </a>
+
+        <a href="#" class="blog-item">
+          <div class="blog-date">
+            <span class="month">Jan</span>
+            <span class="day">15</span>
+          </div>
+          <div class="blog-body">
+            <h3>Learning in Public: My 2026 Goals</h3>
+            <p>What I'm planning to learn, build, and share this year — and why I'm doing it out in the open.</p>
+            <div class="tags" style="margin-top: 10px;">
+              <span class="tag tag--coral">Goals</span>
+              <span class="tag tag--teal">Learning</span>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Zhuo. Built with nothing but HTML &amp; CSS.</p>
+    </div>
+  </footer>
+
+</body>
+</html>

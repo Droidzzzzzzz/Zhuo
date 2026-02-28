@@ -1,0 +1,184 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>News Pulse — Zhuo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <nav>
+    <div class="container">
+      <a href="index.html" class="nav-logo">Z.</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="news.html" class="active">News Pulse</a></li>
+        <li><a href="resume.html">Resume</a></li>
+      </ul>
+      <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <section style="padding-top: 140px;">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="gradient-text">News Pulse</h2>
+        <p>Latest updates from companies I'm following.</p>
+        <p id="last-updated" style="color: var(--gray); font-size: 0.85rem; margin-top: 4px;"></p>
+      </div>
+
+      <div id="news-feed">
+        <p style="color: var(--gray);">Loading latest news...</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Zhuo. Built with nothing but HTML &amp; CSS.</p>
+    </div>
+  </footer>
+
+  <script>
+    // ── Configuration ──────────────────────────────
+    const COMPANY_ORDER = [
+      "Novo Nordisk",
+      "Hyundai E&C",
+      "Kiwoom Securities",
+      "Woori Financial Group",
+    ];
+
+    // Fallback colors if metadata missing
+    const FALLBACK_COLORS = {
+      "Novo Nordisk": "var(--purple)",
+      "Hyundai E&C": "var(--coral)",
+      "Kiwoom Securities": "var(--teal)",
+      "Woori Financial Group": "var(--amber)",
+    };
+
+    const RECENT_DAYS = 30;
+    const MAX_RECENT = 5; // max recent items shown per company
+
+    // ── Helpers ────────────────────────────────────
+
+    function formatDate(dateStr) {
+      try {
+        return new Date(dateStr).toLocaleDateString("en-US", {
+          month: "short", day: "numeric", year: "numeric"
+        });
+      } catch {
+        return dateStr;
+      }
+    }
+
+    function isRecent(dateStr) {
+      const cutoff = new Date();
+      cutoff.setDate(cutoff.getDate() - RECENT_DAYS);
+      return new Date(dateStr) >= cutoff;
+    }
+
+    // ── Render ─────────────────────────────────────
+
+    function renderEntry(item) {
+      const titleHtml = item.link && item.link !== "#"
+        ? `<a href="${item.link}" class="news-title" target="_blank" rel="noopener">${item.title}</a>`
+        : `<span class="news-title">${item.title}</span>`;
+
+      const metaParts = [];
+      if (item.pubDate) metaParts.push(formatDate(item.pubDate));
+      if (item.source) metaParts.push(`<span class="news-source">${item.source}</span>`);
+
+      return `
+        <div class="news-entry">
+          ${titleHtml}
+          ${metaParts.length > 0 ? `<div class="news-meta">${metaParts.join(" &middot; ")}</div>` : ""}
+        </div>
+      `;
+    }
+
+    function renderCompany(name, color, logo, recent, archive) {
+      const recentHtml = recent.length > 0
+        ? recent.map(renderEntry).join("")
+        : `<div class="news-entry"><p style="color: var(--gray);">No recent news from the past ${RECENT_DAYS} days.</p></div>`;
+
+      let archiveHtml = "";
+      if (archive.length > 0) {
+        const archiveId = "archive-" + name.replace(/[^a-zA-Z0-9]/g, "-");
+        archiveHtml = `
+          <div>
+            <button class="archive-toggle" onclick="
+              const el = document.getElementById('${archiveId}');
+              const open = el.style.display !== 'none';
+              el.style.display = open ? 'none' : 'block';
+              this.textContent = open ? 'Show archive (${archive.length})' : 'Hide archive';
+            ">Show archive (${archive.length})</button>
+            <div id="${archiveId}" style="display: none;">
+              ${archive.map(renderEntry).join("")}
+            </div>
+          </div>
+        `;
+      }
+
+      return `
+        <div class="news-company">
+          <h3 class="news-company-name">
+            <span class="news-dot" style="background: ${color};"></span>
+            ${name}
+            ${logo ? `<img src="${logo}" alt="${name} logo" class="company-logo">` : ""}
+          </h3>
+          <div class="news-items">
+            ${recentHtml}
+            ${archiveHtml}
+          </div>
+        </div>
+      `;
+    }
+
+    // ── Load from news-data.json ───────────────────
+
+    async function loadAllNews() {
+      try {
+        const res = await fetch("news-data.json", { cache: "no-store" });
+        if (!res.ok) throw new Error("HTTP " + res.status);
+        const data = await res.json();
+
+        // Show last-updated timestamp
+        if (data.lastUpdated) {
+          const ts = new Date(data.lastUpdated).toLocaleDateString("en-US", {
+            month: "short", day: "numeric", year: "numeric",
+            hour: "numeric", minute: "2-digit"
+          });
+          document.getElementById("last-updated").textContent = "Last updated: " + ts;
+        }
+
+        const meta = data.companyMeta || {};
+        const companies = data.companies || {};
+
+        let html = "";
+        for (const name of COMPANY_ORDER) {
+          const items = companies[name] || [];
+          const color = (meta[name] && meta[name].color) || FALLBACK_COLORS[name] || "var(--gray)";
+          const logo = (meta[name] && meta[name].logo) || "";
+
+          const recent = items.filter(it => it.pubDate && isRecent(it.pubDate)).slice(0, MAX_RECENT);
+          const archive = items.filter(it => it.pubDate && !isRecent(it.pubDate));
+
+          html += renderCompany(name, color, logo, recent, archive);
+        }
+
+        document.getElementById("news-feed").innerHTML = html;
+      } catch (err) {
+        document.getElementById("news-feed").innerHTML =
+          `<p style="color: var(--coral);">Could not load news data. Try refreshing.</p>`;
+        console.error("News load error:", err);
+      }
+    }
+
+    loadAllNews();
+  </script>
+
+</body>
+</html>

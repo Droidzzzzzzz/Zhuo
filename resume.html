@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Resume — Zhuo</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <nav>
+    <div class="container">
+      <a href="index.html" class="nav-logo">Z.</a>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="blog.html">Blog</a></li>
+        <li><a href="news.html">News Pulse</a></li>
+        <li><a href="resume.html" class="active">Resume</a></li>
+      </ul>
+      <button class="nav-toggle" onclick="document.querySelector('.nav-links').classList.toggle('open')" aria-label="Toggle menu">&#9776;</button>
+    </div>
+  </nav>
+
+  <section style="padding-top: 140px;">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="gradient-text">Resume</h2>
+        <p>My experience, education, and skills at a glance.</p>
+      </div>
+
+      <!-- Experience -->
+      <h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 2px; color: var(--purple); margin-bottom: 24px;">Experience</h3>
+      <div class="timeline">
+        <div class="timeline-item">
+          <h3>Senior Developer</h3>
+          <p class="meta">Acme Corp &middot; 2024 &ndash; Present</p>
+          <p>Lead development of the customer-facing web platform. Architected the migration from a legacy monolith to a modern microservices-based architecture.</p>
+        </div>
+        <div class="timeline-item">
+          <h3>Full Stack Developer</h3>
+          <p class="meta">StartupXYZ &middot; 2022 &ndash; 2024</p>
+          <p>Built core product features from the ground up. Worked across the stack — React front-end, Node.js API layer, and PostgreSQL database.</p>
+        </div>
+        <div class="timeline-item">
+          <h3>Junior Developer</h3>
+          <p class="meta">WebAgency Co. &middot; 2020 &ndash; 2022</p>
+          <p>Developed responsive websites and web applications for a variety of clients. Gained strong fundamentals in HTML, CSS, JavaScript, and modern frameworks.</p>
+        </div>
+      </div>
+
+      <!-- Education -->
+      <h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 2px; color: var(--coral); margin: 60px 0 24px;">Education</h3>
+      <div class="timeline">
+        <div class="timeline-item">
+          <h3>B.S. Computer Science</h3>
+          <p class="meta">University of Technology &middot; 2016 &ndash; 2020</p>
+          <p>Focused on software engineering, algorithms, and human-computer interaction. Graduated with honors.</p>
+        </div>
+      </div>
+
+      <!-- Skills -->
+      <h3 style="font-size: 1.1rem; text-transform: uppercase; letter-spacing: 2px; color: var(--teal); margin: 60px 0 24px;">Skills</h3>
+      <div class="skills-grid">
+        <span class="skill">JavaScript</span>
+        <span class="skill">TypeScript</span>
+        <span class="skill">React</span>
+        <span class="skill">Node.js</span>
+        <span class="skill">Python</span>
+        <span class="skill">HTML & CSS</span>
+        <span class="skill">PostgreSQL</span>
+        <span class="skill">Git</span>
+        <span class="skill">Docker</span>
+        <span class="skill">AWS</span>
+        <span class="skill">REST APIs</span>
+        <span class="skill">GraphQL</span>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2026 Zhuo. Built with nothing but HTML &amp; CSS.</p>
+    </div>
+  </footer>
+
+</body>
+</html>
