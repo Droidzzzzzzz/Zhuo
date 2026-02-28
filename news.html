@@ -28,6 +28,7 @@
         <h2 class="gradient-text">News Pulse</h2>
         <p>Latest updates from companies I'm following.</p>
         <p id="last-updated" style="color: var(--gray); font-size: 0.85rem; margin-top: 4px;"></p>
+        <button id="refresh-btn" onclick="refreshLive()">&#x21bb; Refresh</button>
       </div>
 
       <div id="news-feed">
@@ -61,6 +62,24 @@
 
     const RECENT_DAYS = 30;
     const MAX_RECENT = 5; // max recent items shown per company
+
+    // Search queries per company (mirrors Python script)
+    const COMPANY_QUERIES = {
+      "Novo Nordisk": "Novo Nordisk",
+      "Hyundai E&C": "Hyundai Engineering Construction",
+      "Kiwoom Securities": "Kiwoom Securities",
+      "Woori Financial Group": "Woori Financial Group",
+    };
+
+    const ALLOWED_SOURCES = [
+      "Nikkei Asia", "Financial Times", "Bloomberg",
+      "South China Morning Post", "CHOSUNBIZ", "The Korea Times",
+      "The Korea Herald", "Reuters", "The Japan Times",
+      "Yonhap News Agency", "CNBC", "Barron's", "WSJ",
+    ];
+
+    // Stored archive data from news-data.json (populated by loadAllNews)
+    let archivedData = null;
 
     // ── Helpers ────────────────────────────────────
 
@@ -154,6 +173,8 @@
           document.getElementById("last-updated").textContent = "Last updated: " + ts;
         }
 
+        archivedData = data; // store for refreshLive() merging
+
         const meta = data.companyMeta || {};
         const companies = data.companies || {};
 
@@ -178,6 +199,101 @@
     }
 
     loadAllNews();
+
+    // ── Live Refresh via rss2json ────────────────
+
+    function cleanTitle(title, source) {
+      // Strip trailing " - Source" segments (mirrors Python logic)
+      while (title.includes(" - ")) {
+        const idx = title.lastIndexOf(" - ");
+        const trailing = title.slice(idx + 3).trim();
+        const isSource = ALLOWED_SOURCES.some(s => s.toLowerCase() === trailing.toLowerCase())
+          || (source && trailing.toLowerCase() === source.toLowerCase());
+        if (isSource) {
+          if (!source) source = trailing;
+          title = title.slice(0, idx).trim();
+        } else {
+          break;
+        }
+      }
+      return { title, source };
+    }
+
+    async function fetchCompanyLive(query) {
+      const rssUrl = `https://news.google.com/rss/search?q=${encodeURIComponent(query)}&hl=en-US&gl=US&ceid=US:en`;
+      const apiUrl = `https://api.rss2json.com/v1/api.json?rss_url=${encodeURIComponent(rssUrl)}`;
+      const res = await fetch(apiUrl);
+      if (!res.ok) return [];
+      const json = await res.json();
+      if (json.status !== "ok" || !json.items) return [];
+
+      return json.items
+        .map(item => {
+          let source = "";
+          let title = item.title || "";
+          const cleaned = cleanTitle(title, source);
+          title = cleaned.title;
+          source = cleaned.source;
+          // Filter by allowed sources
+          if (!ALLOWED_SOURCES.some(s => s.toLowerCase() === source.toLowerCase())) return null;
+          return {
+            title,
+            link: item.link || "#",
+            pubDate: item.pubDate || "",
+            source,
+          };
+        })
+        .filter(Boolean);
+    }
+
+    async function refreshLive() {
+      const btn = document.getElementById("refresh-btn");
+      btn.disabled = true;
+      btn.classList.add("spinning");
+      btn.innerHTML = "&#x21bb; Fetching…";
+
+      try {
+        // Fetch fresh data for each company
+        const freshCompanies = {};
+        for (const name of COMPANY_ORDER) {
+          const query = COMPANY_QUERIES[name] || name;
+          freshCompanies[name] = await fetchCompanyLive(query);
+        }
+
+        // Merge with archived data
+        const meta = (archivedData && archivedData.companyMeta) || {};
+        const archivedCompanies = (archivedData && archivedData.companies) || {};
+
+        let html = "";
+        for (const name of COMPANY_ORDER) {
+          const freshItems = freshCompanies[name] || [];
+          const archiveItems = archivedCompanies[name] || [];
+
+          // Deduplicate: use link as key
+          const seenLinks = new Set(freshItems.map(it => it.link));
+          const mergedArchive = archiveItems.filter(it => !seenLinks.has(it.link));
+
+          const allItems = [...freshItems, ...mergedArchive];
+          const color = (meta[name] && meta[name].color) || FALLBACK_COLORS[name] || "var(--gray)";
+          const logo = (meta[name] && meta[name].logo) || "";
+
+          const recent = allItems.filter(it => it.pubDate && isRecent(it.pubDate)).slice(0, MAX_RECENT);
+          const archive = allItems.filter(it => it.pubDate && !isRecent(it.pubDate));
+
+          html += renderCompany(name, color, logo, recent, archive);
+        }
+
+        document.getElementById("news-feed").innerHTML = html;
+        document.getElementById("last-updated").textContent = "Last updated: Just now (live)";
+      } catch (err) {
+        console.error("Live refresh error:", err);
+        document.getElementById("last-updated").textContent = "Refresh failed — showing cached data.";
+      } finally {
+        btn.disabled = false;
+        btn.classList.remove("spinning");
+        btn.innerHTML = "&#x21bb; Refresh";
+      }
+    }
   </script>
 
 </body>

@@ -5,7 +5,9 @@
       "WebFetch(domain:api.rss2json.com)",
       "WebFetch(domain:news.google.com)",
       "Bash(python3:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(gh:*)",
+      "Bash(brew install:*)"
     ]
   }
 }
