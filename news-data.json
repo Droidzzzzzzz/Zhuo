@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T08:31:02.742518+00:00",
+  "lastUpdated": "2026-03-09T08:43:22.788452+00:00",
   "companies": {
     "Novo Nordisk": [
       {
@@ -25,6 +25,12 @@
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVi1zSnowem14cjVacDhscVloXzd6N0Q5azJsVS1oRV9rQXVaN1FLVVBHOXI0NlIteUNaajBzN2ZPbE9PVWlsTW1uTkRUbW1qQTBkd281amstb2JIRDFzS0RiVWxjUk5kTVdwN0g4dWZfWjRuSnEtb0hwX0RURDg4Y3NaWDduVkszbm5xcXlya0JkbzRRVFJXdtIBngFBVV95cUxOS1JoYnNOcjNfZ3hLTnY4QnA0ZEdJdERoczVsU0hWRHp2R2VteThoUVFJSjJjWGxSNmlUdTFfbUdncGd5ZkMwUDNHWS1fVEpnT3cyWjdCakhvMnZHb0E1dkFSTGl2Y3l1dmQ4SlVKaXpEdjM5eWF4UV9pUTZTRWJ2Q1dvaVdlU3VJa3FoZkhXTzQ1SHF0b1FUT1NzUlVRdw?oc=5",
         "pubDate": "2026-03-06T15:45:38",
         "source": "CNBC"
+      },
+      {
+        "title": "Generic Ozempic Could Cost Less Than $3 a Month, Study Shows",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWXpaZllqamFBaHRsbUEyT3E0dnB6NVlIZ0hNY1JiMmxKb3VHakhVb1NwSGtaTDR6TkhYb2NiNFVxSU5GU0Z6eGhVR0tMYXVjQmZJd3NfdldpT2p3T193bHNQVnE2RVRUTXRzUlhlUzRneEZYSi1QT3lOT0lpbkVLWkNFRHoyREUyUm1OX0JLN2hXYW5PV3dHbnhGUEtaTUhQR1BlTzJhS2R0dzVPZFE?oc=5",
+        "pubDate": "2026-03-06T08:30:00",
+        "source": "Bloomberg"
       },
       {
         "title": "Trade Tracker: Jenny Harrington buys Best Buy and Karen Firestone buys more Novo Nordisk",
@@ -351,6 +357,12 @@
         "source": "WSJ"
       },
       {
+        "title": "Novo Nordisk to Cut U.S. List Prices for Ozempic, Wegovy by Up to 50%",
+        "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxOdVptaXNZaFJmbkJMU0I3NVRfVHFTTjhWaVdwc0d1WEx0TzliMmNLUzJYc2NZSEtoaEUzaEdHc21MOFZubE1tUFh4U01wSnJELU9FVnpJZkR6cDlsSFFldUN6WUJRXzY1MHJuLW5tX0FJX0p3ZGE5QVgwc25YTFhibk1Ka1dVWm1JcHBTZFY1eHBFVVZFM1BJMEh5dWMzNWJVVW5meHJjMkI4SU83OTM3dzlLc19IS0dCU3YwZU1UYWJMQ0RrMmxUaUVDSFduUXdjOW5WQ1VJVnhhZlhHaFZkNjF4WGtmSEhHZG5tYk41YUVGLVluZEw1djg3cDloczdwN1VJejRaQlpCaXJZNjlDaGI1MzZsSy1vTGhwWDd4YjNCUzJOUE1xT0tSSDl2OGFhczBJWDZLTlVIaHY2NFVDY1YwQlVqTVFsNjZQRElVWUkzRDg0SU03SExxUVM3U1o5QkZSMXRGNnBzNDBSNFJOYmxITTg2LWtWcW5CUHFIcUMwT0toTVZlUElGekRoU3dJYUhzSG5xRkVqdnVEMUtiTUdSWk11MWpmOEozLWhlMm5fcFk?oc=5",
+        "pubDate": "2026-02-24T08:00:00",
+        "source": "WSJ"
+      },
+      {
         "title": "Novo hoped its next obesity drug would close the gap. Instead, it may have widened Eli Lilly’s lead.",
         "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYTRxbmpLd1g2ZWRGckhKT3prZ21TMWRSTjJsLWdKRF9tbG1zNGgyVTJQZC0xMi1VTlFtZUF2VkxuUExfXzRILWtPYmU0YVh3U0Z1U3JydXpJT1VrYWRUVklsRlE4S3l2SXBZVzhvZFRTTUxqbThIaHlmc2k4WDJyYmhSQVVmUUROZmpIXzdQVkpab0pjaUdoQlhyY1NIbFM5dkdFT1Vlc2JmVHdadHY3M25CQzRVV3ZDUWRGaG9FUG01UE5wRm5RMU15RmgtUQ?oc=5",
         "pubDate": "2026-02-24T05:09:58",
@@ -457,9 +469,99 @@
         "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxObUpyTnVLaGRZQm9xckQ5b093UUJIVHdKWGhuX0c3eHhVTEsybmZlX3NfdGpBd1VPV3o2bk0zdFM3cW1ocnJEUVg0bU0wN2VKRjM1dk5iR2FBNGtCb1dvMlc2ODZhczVDUE5PdkVjdU4zT2UyNHo2U2dOWml0TTc5QkNob1VvOGxUX1R0VUZmNnBBR003WU5VcEZSd0VaSTFlU1hMWlVQWTRLcHZQWDk1SFg2T3IwcUJSUjlrREJDdVFlNlBOTjFlQnhFRWtDamM?oc=5",
         "pubDate": "2026-02-20T08:00:00",
         "source": "Reuters"
+      },
+      {
+        "title": "Novo Nordisk sues Hims & Hers over copycat versions of Wegovy drugs; Hims stock falls 18%",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcVl0c2FYUVYwSTBDdVd0RHdVM3hZV0c1czJTTnJMZWpndTZOb0hyQjVMaVJHXzlxQ3pBMFZrMEFrZnlDazNOQ0JldG9aRFVKaWI0Tld2WUJzNnUwR2xvTzloZE1DWWN3dUhIRGR3cDg2dlkwaEFoX0ZuYkVKT3JSZjdYV2l2Sk53bGIxMkF1UkFQd1XSAZgBQVVfeXFMUEt5d1lQUzNjWmJIMXhPVmptVEdKWUJOVUwwMGsxRGdLbGs3NnNwTWdMRzE3MnQzb21tQTgtdHNmQzNfUUw3WkpYRk00ZS1WYUM2RVlvV0dXLUxvREozNkdTQnRfc3AzZXV6d29VbnFfYW9NRmJSOFUxRVRvVjFMSG1lMTNiU3Mwc2FSMFFUdU12VVN6Um9nV2U?oc=5",
+        "pubDate": "2026-02-09T08:00:00",
+        "source": "CNBC"
+      },
+      {
+        "title": "Novo Nordisk Escalates Fight Against Hims & Hers",
+        "link": "https://news.google.com/rss/articles/CBMimANBVV95cUxPZVlvWVVJZXhCT19icW8xeW8zdTBBc2ZEbjBJc3pqV2tsSXk2SzJuTHk4b2M0MkJoZ0tWbnRWSDZhT09laXhEcXU1cnhyUm9wUGk0eVRoOGZGa01HaEtwYXRjZzhNd2JxTEJzdnhDMm5BVWVQRjhSS2xqNFEzRlhwRFo2bWFWQWNlLVhaZXBTbXhZb09RM3RXMDkyclJEaC1GUEFvNV9xd2w3MGt3cWgtUC03N2xkQ21VR3B0QldyT1lWazR5WnE1MEVuNW5iRG82eWZoT3Q3cFE2cDNFeXBQV2hkZHFjclVRWS00TF9SR2xWdFFfbUZBME1IeGhHX2dGbnIxLVFDMEJyakdXaXlzLUxoWlRBUXlueTRqWjViZmo0LVBZV0pXN092U1U5ZXhpMF9PQWZjTmdyaEVJNEVxbGdlb3Mydl9rTWpsQnUzanNmVFVrQVZUaERTTl95NXNrWVF0a0lqTXVUWTZNS1dEN1VOTzlncEFoS3locmZnZWRQSV83Vml4ZTVoZ1lxZGgxdzRYaGJaeXI?oc=5",
+        "pubDate": "2026-02-09T08:00:00",
+        "source": "WSJ"
       }
     ],
     "Hyundai E&C": [
+      {
+        "title": "Hyundai E&C launches first-half hiring, targets NewEnergy and global talent",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNEwzUjdlMnlPbmJqYlYyUWtjVUp6UTZXRzN3eXRhRmluTlFoXzFud2plRkU4a1FWbFZSb0xYa3NnX3gxQjRMTkZxc21hUndZMVNGVDhwT1FMMFI4UE1NOXh1V0xZZFNuYjBMWDRRQ1JGMGNJaWRUSlNWdWZuMk1uNkl2X3TSAZgBQVVfeXFMT0NUNGMyNlJfMWJockVlQVJITXBseFlpRW50MFlwTV93WjRHeXVUWmtPMjRFSWQ3QktHdmZLcWNldVZRZGdsY3c1NTdWSmJST2c2VzgxYl93Q1lkNjhDbzV4cmZIMHJnTmgxTU5yQkpsSXFiRm54UnJwRXdJU3Q2d0oyWlFQWHFPdklVb3pJZlBydlNCSTNfd3g?oc=5",
+        "pubDate": "2026-03-09T06:30:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Hyundai E&C and SNU Bundang Hospital build residential AI healthcare platform",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZjdnaFB1NzJWTzFKSFhOU3c5bFh4dTVaT0p4TlltTUQ4TmZ4Zmpzc29mMVNQMkFpQmJLZDBJc1M2SHVqT2hzM3RDVTd4N2M4dmFMc3ctLUR3MkJPeDJ1RlMwcHdxUEVKWlp1TDcyNDJ4VFFGcnA1cmlIVDI0blFEVndHRzPSAZgBQVVfeXFMUHVEbFZ4YTYyZ05yQnN6ZWtnRzVDczNpc2VPOWJRYzhlSm1Vc2sweER3VjFFZHpwREV0Y3JoRmhHcHFvWkxWVWtmbjl0WFdTVmhqcjFodlhSMGN4dktPTFVZZ21jeHhkUndLb2dDeFhhR0ZzY3VZRWhzR29VMkg1LUVMaElDQnE0UE42eHA0YVJqQnYyME94aG8?oc=5",
+        "pubDate": "2026-03-09T00:34:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Hyundai Engineering & Construction loses to Jin Air as Yang Hyo-jin retires",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqcTFiS1FKdXFzY0FjSXRBb0dJYXlWZXlrcXlrX2x2bmd6X3AzbDcxZXo2NGpPa2Y5YlBBTl83RjRvclltUTJnWFM5V2Y4WThFamRkdHZ2VE9mY2J1a0xkMktoN05qNFFNb0psaGpPelZFa3h4dlNDR3pONDlzdFnSAZMBQVVfeXFMT0lTV1lta2ZYM3JjeHhKWm9oUHJkTlA4RlJsekhjMEZOVC1iMUFvTUMyOHhVT01ZdGVoQ0hLcWs2MFpKVHhkdlZLbHphZGdQRjVucVVIZkVPSFFlaW1VYmFLUnFPTVpyYUljUXZTV0l3RWtfYXlyT2ZURlQ2cXQ3LWtwSUdHeHJ0MzZQcUZvVHFBamlV?oc=5",
+        "pubDate": "2026-03-08T15:07:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Yang Hyo-jin remains Hyundai Engineering & Construction's eternal No. 14",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaEdsa0E2STBsSklpdXBsNTZ2NFFERWN2dHF5S1IyR0NQZ2xTX1o1Z1E5bm50OW0wbVJqLVdGLXdwNXVOTmw0QzFKS2FpVVMtY09RUmxlMEZ5Mlc4bE5USGlfckVaUW03LUk4VmJpRWtxSWJ0ZU5xdXBTWU5zaHRvemxkSdIBlwFBVV95cUxObVpPWFVRY0QzYVJGRElKYUZsZXlMVW1BeGJqWl9FQnRibnNtdW51Mmx3X1V6eW9oOTFHMklMeE81WWlzNVFJUHJmYUlUNzRaTUZzcWw3dUlLNll1dHBXZEhJd3h5M3lZaUJvRTdwN2c4cTNRRVBoNjE2RWpHR0k4TFhvc1pQLThaQWpTbnlHT3pXOHpQVXBz?oc=5",
+        "pubDate": "2026-03-08T10:58:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Yang Hyo-jin delivers final farewell",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU1dkN19GRFc5VnFuSW1jLVVOZzdfcnh6U09EWWFSUVZnaXNES0tCOVFVWElvTTdDSDRNckRTcHVVTElvQjB2MnBlNUhpUDVmNml4UTBDdTEzZkZjOE1XSlFIWEpBSjgzU0hHbVNQWUg2TTJlSGlIenlGQWhHdXBJYnhpRdIBlwFBVV95cUxOemhxeGUzVEJ1WDRZbUdOaXNDal9EczBDVnE0UDA4WmlYSXhoLXE5cHc0UlZoQWFqa0tYdFRtTEVMSkp5SFpQYkFBTUlmcURsWHJFU0hnSVFjVnZJWGpieF8tLWVJN0F2QkpmM2ZscXprUThnei13Y3JDbGhyTWFMOXNWNC1xeTVkYndrRG84eWlNQ3djWktR?oc=5",
+        "pubDate": "2026-03-08T10:43:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Yang Hyo-jin delivers retirement remarks",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNd093R2VOYXgwdTEydUlGS1VaT0diVmlKcDkxY2tPN2JrY2tvQVZSNDhyekFiYUIzNm15SElnM29NeWZuQWdDQjkyVEFCakRFTTFsbzVxenJ2cjhvVHdwbU01TWxpUkV0YVExOXJlUEVsWWJBYWhtR1pGQzNxZ0xSdkNGWdIBlwFBVV95cUxOcXZLMjBnOUNTYk1RS250SVBHU3JGRE9ZakhlRUtYbkYzSlNYSEhYUTFvUE5ZcEt4X1EwT2xhckc5MkZ6S1pKYmhjTkFlaUhzQTAwNHhHS2V4alFIcW1oUjFybDBFbzRSN2tUN2ZMLUpVUlRSTjgtRFNtVnFwdERUWDJYa2UtVGZQdm0zMDl5cXFsWDkxMzFV?oc=5",
+        "pubDate": "2026-03-08T10:36:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Yang Hyo-jin Delivers Retirement Remarks",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM3o2WDl2RWZMQlhSRmxNZC02Y0pBX3NnSl9NOHVnLVRxSjZmNkhUZW16UDVYQ1hFZnQ3bGVPQU5MdkRNYWdRSV9MdFY1cnZ3ckpLWUJ3YXZsLUtPVFN1VHA0Q3d6WE1CbC1PS1llUEE5Q2M2WVQyZUJkVllnbTFwS01MONIBlwFBVV95cUxPSTZDZVhGV0VJMTdJNW9MTHhTRFpSTzdKMFAxOGNETnp5Sm9yZlo2bklESkpxbDVhRXpoMEM2OEY5Wl9BUHZpWUZMRmdIeVpqOERmcUYwSk51TnE1NFliN3dyR2ZuNHVRYlVMSy11RDFQeTVOZ3g5QTY2ZTFSVDc3UUNKOUY1QzhjTzFhWlpHcDc1ZFhaOFAw?oc=5",
+        "pubDate": "2026-03-08T10:36:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Yang Hyo-jin ends 19-year playing career",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQM3NraC10X1FONmhlbDZONkdVTURRRUFXOUJXSDdyRDUwanZvRkRQazdtbi1ud1UwSWd5RjNrQXpwMnVJUkF0VGJJMUZrM1dTVVBuSjlySHFueDJEbHZmbExvbU83NXRIenhocDJmUzNXSTFMS2xmNC1yV21JTlgtVTRIUdIBlwFBVV95cUxOV29sYXMxTUNOSXE4Smg3VTdjdi1ONW9VQ3RsVldnVlBoNmpaV183QjZkRWhIMTZyV3hQSTZyM3E4b1dBRk1rZDRVeHVxT085bEdBRnY2aGpnSFl1TGxQWnZXUWlXZ1JITFhZSjNPQmE4dkZFZk55Tk93TFZ1RU9aSGh0LTlqY2Jia29FZ3lmdUNQVjVVTFlz?oc=5",
+        "pubDate": "2026-03-08T10:35:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Yang Hyo-jin's No. 14 retired by Hyundai Engineering & Construction",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMFM1dTJZNWpZX1BWaWtoMVVrTXJXc2t4WWNpa1YydVlZUjFvQ3JoTkdZbGFHSG53TXY3aG9pOVRZSFlqdnFZNFFGTzhlRzZNNWRHRnU4eFVFZnVYek5FX0ZHeUFPOXZMOV81LVdaZFZPeGRPQ3oyYUthLVE0aTBpaXcyRTRGREdybnJkWU52RHBvMnRGa01j0gGXAUFVX3lxTFAwUzV1Mlk1allfUFZpa2gxVWtNcldza3hZY2lrVjJ1WVlSMW9DcmhOR1lsYUdIbndNdjdob2k5VFlIWWp2cVk0UUZPOGVHNk01ZEdGdTh4VUVmdVh6TkVfRkd5QU85dkw5XzUtV1pkVk94ZE9DejJhS2EtUTRpMGlpdzJFNEZER3JucmRZTnZEcG8ydEZrTWM?oc=5",
+        "pubDate": "2026-03-08T10:28:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Yang Hyo-jin embraces forever No.14 at Hyundai Engineering & Construction",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxObjg4R0NpSUY4d3NYOC1naDZRMGF1OTFzU2JDM2RVTkMtX2RBLVk3YkVjOTR5azFQS1U1dXdtV1Q4STc0Y3JONHZJTVVfdHREX2d1SjByakQ0SFVyOTgxNmNXQUVBQjZFQUhDcldWcDRxb0NuTTFadjVuTkpJSVNpT3BiVdIBlwFBVV95cUxOa1FBbWw3NFhlOU1Xa21KeWhabVpXdHZaeENSeGx1aTdNdE1HbkVCM1BmRkpsbThJUXhSMXpPM1YwLVRuMHpYbzUtYzNqR3JTSjVkcFYtTkRLN0xDbjZWUjRjbDBRRWp5VDZLSXZaODlZbXJaTUd6SU83THhvT1JWMTJLcUw5ZER1SWFxSHNPdk5OandJbE9r?oc=5",
+        "pubDate": "2026-03-08T10:28:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Yang Hyo-jin has Hyundai Engineering & Construction retire jersey No. 14",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUUR5UjVsOXJySGJYWjNranpZNnVod2RBZXlHa0dkRTBPX01CS1NSdll5YkRmQmw0WDRiYWlmdkxRdktRaVM3RWpxLXNsdGJfYzByZ2dxRjN3Vmh1QmluMU9JVzFSVVB6NmlMQ2xDT3FJQ3dzNnVnTGlzMXBFWXpKWkgzc9IBlwFBVV95cUxPSlFDZ0FqNEZSQWZfcndwYW5VdnNCN2REcm80aTdBQWJoRV9rVUhlYmpOWnZjbl9yMEM1clRmUnhzTG11dTNsd3E1VkxiV2Jldk9LMnQ5RXBCbVp6RzRieU9lTU5Jdlh2UkxtZzBZdk9EN01aamItV0ZteHJGcmptYnhraHdvLW1GWHhwTmEzVTRvNlh0NHZV?oc=5",
+        "pubDate": "2026-03-08T10:28:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Hyundai Engineering & Construction celebrates",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRDVVZVlMZ1pLMUljZm5neUZ3bFcxb3kyTGdKb1VSTFNhTmpQVHhMc191ZFpCdnZzSHpIc3JSeFAzLVZCTUJvc2NQVVFQWHZQYUN4RFpvaGo4S3JJa2c4TU44TWlfS1Q4MnFMV1pKZXQza3BTcUg0ZXhtYkFuakNsNG5SWW1KUEtmV2poZDhvWF8zV3VVTG5v0gGXAUFVX3lxTFBENVVlWUxnWksxSWNmbmd5RndsVzFveTJMZ0pvVVJMU2FOalBUeExzX3VkWkJ2dnNIekhzclJ4UDMtVkJNQm9zY1BVUVBYdlBhQ3hEWm9oajhLcklrZzhNTjhNaV9LVDgycUxXWkpldDNrcFNxSDRleG1iQW5qQ2w0blJZbUpQS2ZXamhkOG9YXzNXdVVMbm8?oc=5",
+        "pubDate": "2026-03-08T08:56:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "[Photo] Hyundai Engineering & Construction celebrates 2-set victory",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSnpLdFA1YmwzWmxiZDBlOTZ2NzNoSGFRcjhnaFpXZkp3RDNCZXpZV0FWUGVxaVFGRlZnX0xTRU1iYXF2anJobHljTmV3QTFpTkhDZFAxTHYyOXNUbUxfU3VJbk5JNVhOWl8tOVRGRFdlSEVmVHZ2UnV4RUZ0X0pxLUdYZ9IBlwFBVV95cUxON0lLRGkwT3ZJWDBab0hLWjFjX0pjSHQtV1FqbDVXRWcySG80eXRvdWJnMkYwNTh0MzkyRWlvS1htTklzY29kelZTY2xjWWZLOFZmckFOX3NqSEg5S09NbkhVX1E3dkg4dHNCanZuVmEzTmtkN3M1enJwWGVVaTR5QVZXWlJrWVNJVjVBc2RhSkRFY0tfZzBZ?oc=5",
+        "pubDate": "2026-03-08T08:29:00",
+        "source": "Chosunbiz"
+      },
       {
         "title": "[Photo] Yang Hyo-jin emerges amid roaring cheers",
         "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZWQwdEI0Z25aZWszend0LU9mcDIwR1A3cFpYZmhJX0JGRjFvdnN3UURPT3lwQ2VxcmZtZWlpSGprM3Ffc3VONnBVX0tBeHNTREFfSnpLMkN3WlNYYTB5QWdzbjZtUk1QMkpvVFBNWkZjWm9kM09qWk5mV0dfQW1KRElVMNIBlwFBVV95cUxPRm5BRjROZjdCekFnR0VqMm1tcnZxT1Y3Y3NrdE42NUJxNlA5WU9PV2dLVVJhcGNmQUxVbkVSTVBUQi04RnpXY1BtMzlTZlZKakh3dVVnQnZmSGNBa1YydDJmRlBaTnJJeFhyRzkyTVYzWW5wRWFJR3NETElneUNxM1RObTFsblRqVndRbUkxZUZPSHdnWndr?oc=5",
@@ -826,6 +928,12 @@
         "title": "Kiwoom Securities launches real-time investment chat in South Korea",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeW5kQU5ERDlIaGpVYU51S0x5QTF3dG1hME04RVEtNmd1ZjF1UEVrZVBha0VLcVVsVjZHb0JOYjAwbmNjdDRDNGZFZWZHa2JnZUNkeHJ1RWJIRTFHWlE1R1FYM21leXZiVFVIeDVyVFkwUF9kdi1JLWJrUkxtdjhfONIBlAFBVV95cUxQLW05Q2FzVXZsQ0hQbXUwdWdVSVh1VXRiSlJYQUF2YXJFRnhKNll3aldvSlp3c01rRElHR1B0TFRjcW1SNENtTnVURGdpMi1BaWN1U2laQ2NzbUgzYUVQb1pGMmlMNnBKU0NpZkI3LTlQam1ReGR1NTFQT2Z0M0huaVBSclY0WjVEdzV5eFUzQTJIZ2JL?oc=5",
         "pubDate": "2026-01-16T08:00:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "CJ OliveNetworks equips Kiwoom Securities with Amplitude analytics for HeroS# app",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1zTDRnSnF4bFpKTDFPOU02a25ydzE0cG9iaHlVXzFwNzdUUTYwLVpYUExsSlY3UDNPU0pqc18tZVd0eHBjR0NKdTdiR3pDczBMRmkycnhhQkZzUUhCRjE3Qm1lekh0SDFpaTk3QmhvVHdIaE1QbldUMTNn0gGOAUFVX3lxTE96UEd2cWZYdkxVX0FyU3lNN19NODVNcGRwTUY0ZkVtTEFhYjRwSktQb0lGcjNKTFdqX0xKQUFRVFlnd0VvTk13dGVvZVFNbDAwTml0T2VQZVE2QS1nV09oR2pGd2IxQzdyZlFXNFJYM1JsaTdacEQtZzRYRnRZcHltcXZ6S0J0aFg1M1ltb3c?oc=5",
+        "pubDate": "2026-01-15T08:00:00",
         "source": "Chosunbiz"
       },
       {
