@@ -1,10 +1,40 @@
 {
-  "lastUpdated": "2026-03-25T08:51:45.425924+00:00",
+  "lastUpdated": "2026-03-26T08:55:48.066233+00:00",
   "companies": {
     "Novo Nordisk": [
       {
+        "title": "Novo Nordisk’s decline",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1rRHdGZWNibzM0ckF1b1VhZUVDMDFKZVJ0Zld3MXYtQ2hhaU5XNTNkak9zNFd4Vk9aWlJPaHJ4WjVXTFdLb2pkT1ExSFQ3T0sxVW9KTXU1UWNFRTl2MkU4VXFvek5Gd0E?oc=5",
+        "pubDate": "2026-03-26T07:13:51",
+        "source": "Reuters"
+      },
+      {
+        "title": "Novo Chairman Faces Testy Investors With Little Progress So Far",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPdmtqVFlsQU1UNkxhYmxJam5mSG5SV3QybXU3bDM3Vm1WRnNSWGt2alhlbklwd04zMkZmZ2NqN3dTMFBwc2JidGlBTmZoUUlrSFY1X0syU3NEdEdJbkdad1djTW1GUUFZbW5kSXNYSmZYRm1CenFmbHdwY1lUTnBkSVlwdTJlRjdoWUNVZ1ZHWHluandpZlNwc2djdjNqNC1xVkZ0NmNmTjNEOVJldndNY1V3aDQ?oc=5",
+        "pubDate": "2026-03-26T05:00:00",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "China’s obesity drug makers take on global giants as Novo Nordisk patent expires",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVXRzalJMcFhXTXduRk9heG9vaWs5RklCYVNTVksxNVFZOFd1OWt1OHhacG9iLTduaTZENEtla1RZSktmb3lVbHhWSUZKYWh0dlJUZW1aQ3JwNTRUdFhmMjh1cmhNMXF6bHMtUHV2RzVDdjlubHRRLUh0VWxSQjFQVGVNMTlsazMxT05yejg2djZfWnFIOEQ2XzNOZ1hYQllkV1FfUVZtekx5b2pYRTNRSVl2MzFoRmUzdWs3ek0wZ1VCanpjaGwtcGFhTWlaem5tb2JiUNIB1AFBVV95cUxQNkJxWmotYVQ4b3R2Vm9vUGFVQ0tBMGhWSTBIR2R6MkQ0UnU4NXZRRUVMMXhBS3pfc1pLcE9VUVNrY3R0cVJudzRtdXhPNE9iNUtJMWlNc2JWaEVaSjBsbGFrSmp6eXlHNXBXczJJMFhNODc0MDg1Y1dxLWJmSDlLVl85alFWRTlhN0J3X0dCa0t1YWlTOTY1aWxoRHBuaS1pcnNVQ3FOQ0VwTTU1Q1ZiRUV4amRhUkd6cmFMdWJJNVNDUmtoYmpvTkdTc21TQlRJeGRmbw?oc=5",
+        "pubDate": "2026-03-26T03:00:08",
+        "source": "South China Morning Post"
+      },
+      {
+        "title": "Novo Nordisk cuts Wegovy price in South Africa for a second time",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeUdreEFNNWZmbmVHck1QdERocWZCcE96Rk9yQ2xQeEhJT0lGNXZXQXRZYTZkOTBJV2RuZTNjWXg1TEJkQks0T29uaGJCcVBaUkdsTm1UWHk1MTdiQzJ4T3Qxc2N1cnNjYWd1dGxnSnVMRG5NS1JhSDFBb25NdVRNVlcwWGI1dG0xRVF3TG1hSXVyOHBHTXNMWXhQcnZLa1hXb2xOSndxbUIyeUZNei13Mzc4V19PaWh4NjlkZm9MMWRCMTJ0R280WGU1MA?oc=5",
+        "pubDate": "2026-03-25T17:12:53",
+        "source": "Reuters"
+      },
+      {
         "title": "Novo Nordisk Says Experimental Diabetes and Obesity Drug Shows Positive Results",
         "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxPbWVwb0thNmFUNWFERDU1VFZBckc1ZDMtMGRma1lIZWJEOFlMUEcycFhJNWEtU0Y3TU5GaGtYci04YUltVUxOdTlJeXNaelZ3VmxhY0gzR1RCMk9CNGlUc09vczFMQmxnX05xM25uZ3pOekpRaEJJOU05djVMNXRFa3R6QzJ4WHVfYjZZWDNSV0wwNjBENTVEWlhSRm5rekhQTGlpOHNwZXI5Z1RNcjhVNjBoZ3VkYm1BZHc5QUJ5OGpxcGhIcTM4Rno0Q1F0dTVBMzhEeTU2VjFYVDgwSU9EVGh4dFdnVDh4b0RHVWVUT0RJYkdpbDlzNkNHZUFvNEF1ZndtSG9GelF5bDdWaEJrTDEzUHBKQkJZcThrUXBGS19QVjVOT1lRWkt0aU5xVEZVSFZ2UGxta0RMbWJOaE5TUDU1dHFCamhwXzdGMDM2VXl6ZmJjclBCRjAxcWxrN1ZHc2ltZDRPa2xDOG5lZ0Fad05SSVU1VW9NN01mREduQTYyNjBMN0ktdlIxdFhpbjhRRXRhQUhXdFVkRGxraXlYbkhJNy1PczVwV0RfeHJjRGtXT2Zqbk5oMnE0S0VUVVZnZEQtNw?oc=5",
+        "pubDate": "2026-03-25T07:19:00",
+        "source": "WSJ"
+      },
+      {
+        "title": "Novo Nordisk Says Experimental Diabetes and Obesity Drug Shows Positive Results",
+        "link": "https://news.google.com/rss/articles/CBMixANBVV95cUxQbXEwX2FudkFSQXdrYUVNUTJqRmc5ODA1WFF0dWZPa2VPMjktaFBzWmVWdWh5aXRYZHkzWUVQY1BpdWNmU2RabURzc0xKTDRKQ3Rla0VRMkFadGZwZDV4ZW1BX1hhU2lRVUJFUUl6VHRmaTQ5emViVFVwMklaN3JqV0VhaUhHWlhFNnJsV2FhWXpFakJQTE5ZY0tvMU5PYTlxQl9sRndiSmxWcjR2RWZ3dWFPWVRORUh6RlplYWJ1NTZ0dWp2VWhFTEwxcFkwTlJXeFFpRzlZOTRKVGEzVkZzQ0ozc0wxUlVjVWJEYWtUNzExY1p6a081eU9DT3VNcUJVZGFPUUt4WDlQcjJ0NTJCcVlGNm5kLWM2TUpBT1RrVHlIX3BiZm9Tb3luRVpkeUt0aTJTS0Y3MThFR2FxU2Eyb0pIcXktYWdCWVNYNmJ3S0YtNlA3a0tScGFNcmVtaTYtZms4REQzZW1INUpEUWFfZVRQbU0wRHN3dmI3VTFpeUMwbnN4UEhrRHBwMEs1UUFRYk1tN2liNU9jQTZYOEtIcmxsWG9STXVJYzdPMGpwRjBJS0N1WUtWTHI1elVGSS1uWFJOSg?oc=5",
         "pubDate": "2026-03-25T07:19:00",
         "source": "WSJ"
       },
@@ -17,6 +47,12 @@
       {
         "title": "Novo Nordisk Begins Study of Lexicon Oral Obesity Drug",
         "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOUTBjMER4b2d3OURraEZjcGpNTGpqMWxEenp4aGdLc0F6OXp6SllBRkhYaDdZbmo0aGtxVUxnOE1EY1RQSWtReWg1MkpsVFMwTnlBdmRBRDNYTzRYMXhsQVoxSHRYUVdSb1NVWXRLUWVjamZoNVdPYnpnOWRFM0JLZmpYQWdEZXZOZDNUUVVCVHhpMHhmcDBEZUlERzRuUkh2QXpJbEl4Z19aSFZRWGpUdTlzRjMwaXFTbU9VV2pkVU9uOTB1bGlHMDFMUHJmSEEzSTlDOHhPOFBNTnRwc28zbF8zSnhzbXNQTDNwWUF1V0xibjRTMnpMR0NfWjdpdVFsTkpobGMtSllSMUhxLTJ4ejFjOUFSVGtZTW9CUnFLcnFkbjVQTy1SRTJMSUktekZpNTYxTG9OWTd1RnlkdnlrN0xkajZyeHRhSGdfWlU2eTBzYTlTY09tWXRSeVZjOWhYNjU1RjVzLThlanhlcEpNcWptcmcxVWpTM0tFUDRoRlhockJNNFFOVm8wMzNhUXZyc2lySkNJM0t2Qzk1WVI4UWZoOA?oc=5",
+        "pubDate": "2026-03-23T12:47:00",
+        "source": "WSJ"
+      },
+      {
+        "title": "Novo Nordisk Begins Study of Lexicon Oral Obesity Drug",
+        "link": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPeDNrWXhPRExLUVU5VTV3em9rQl9mUU9YLVZNdmVVLUl0anVwUUxsR3RfbWdDYmF1VzJiTmlrcXNTSHRqWmh5cXRYYkdpdkVqa3BmZ19TY3FSLTh1VEl3cG9tY3dzMGJkcWhER0RsY0pZSzluaklOTEU5Rms1bThGMEVMVzRibE1JWTNsamZidmlXRVREUWdQaDdIOHdRQVF6cnlTbDNmcDdwVUl4S1p6VGVRNHVXSXVYVmpoaWJ5dmJmZUE4aEhCVjFUYy1Tcm5Za0NIQTJzM2piLWRnUG5KZ2N5NmNGZzJQUjdaSmIxb2dlSHhWcTBoczlQWHVHbjg1Ykd0dTBtaVdJRE5FaUNnMmlYd1hURWNJM1k0Z0hpdHlhYzhxcFJ0TVVOS2UyOHJxTmdpZE82cDlSTkc2MnN6b1FFak5nTV9oMHRmV2JFdUZObURBblU1N2oxMnl6b1pKQmthYnJ6OVpjVlBYNl9SbzFNS1d5NHFuOWdsS0ZPdmJ3WkdLOVZndDBTZDdWWFN0U2tRTHZoemQzYjQ2N0hKRXBPcw?oc=5",
         "pubDate": "2026-03-23T12:47:00",
         "source": "WSJ"
       },
@@ -247,6 +283,12 @@
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQVVTM00zRlBvMktYVlRXSHY4ZVVtc0JiZzlUM2M1Zm9Da0paVTRMYlJGWTNVUVlLaWdHcmY0em04NTBybllvNTd4UUNHSGdQZXI2VGNQM0hzYkZQX1NORkRnaDRnQ3JOYWhSRl8yczJERlhMZ2VxX3QzcUJWRklVLVBueWxhOVljRXZOUmJkeHppNUpvYi1KYUo5TWQ2VVVGMTF0X19uZGF0c1BUZGRB?oc=5",
         "pubDate": "2026-03-10T11:25:20",
         "source": "CNBC"
+      },
+      {
+        "title": "FDA Warns Novo Nordisk of Unreported Side Effects Tied to GLP-1 Patients",
+        "link": "https://news.google.com/rss/articles/CBMiuwNBVV95cUxOYTFnN2ZQakRhQzVjMmlpODU4N3hmcm8xX1pQcGQzRjFEdWFONEF0YjF0cHhFWEZrV3JDcTF0dC13V3ZGTGRKbmxtX0ZRRG9RQm5EcmF2aHVpM1RVZzE2M1ZZRzd1M2NyZE9HYmktYkxvbjZtSUxDNXBVY1ZicmJxaGttNWJrNVFFY0thNHl3Tnp2c1NXRzlaTFpLcFlrcGR2YVAtR0ZxUHE0MzNUY3YwMjJ1Zlh5WVk2YUVoWE1XX2xkOFExY2RhdkN1U3JvLWNaT0xjYnM2U0NBYTRCbmsxMjRIZFBGdTdKa3RlbXJ0WXowZ09OUERseEVvMWJyOE9hV3VZN3JfRE42WXk3SEcxaHM4ODZ5dzB5bHNtUG16MWsxYXVRNlVsTDJRR0hCSmw1YmFLc0w2d0IwNGFGc2xORDYxang1eVRVb2JIMTJCeWNsSXMwZW41YmwtOENRbnRua2o0elF1eVREbm1pcWJ1S2JIbWdQUDNKQ1p5bWZTeXBQeDhxRFdvQjNHYXBFcHdHZUY3OFdEeEpaay00cUo0RjhuazNBTUZaS1lCdDdVSnhlS19sZjdvbEtJQQ?oc=5",
+        "pubDate": "2026-03-10T07:00:00",
+        "source": "WSJ"
       },
       {
         "title": "Novo Nordisk strikes deal for Hims to sell Wegovy and Ozempic",
@@ -988,6 +1030,12 @@
       }
     ],
     "Hyundai E&C": [
+      {
+        "title": "Hyundai E&C sets 33.4T-won orders, shifts to advanced markets, boosts energy",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQdGM1MHk3N18zYnMyUTFGRWNBLWtCRC1iajJrdnVla05jU3pING0wVklEVG5zQ2FwS3ZIZXg1NVN2WFZFQ0NpOTZZVG5SMENLdUp4WkM3VFRVZTN2djVEcEhqcDIzUldZYXZmVDN6cVdKSWxqUTRFU0paRXhsdFNhT0lPT3rSAZgBQVVfeXFMTk54RElmVDJrcXVoc0dVQ1BOSDUxUDNGNndGakFSTEF5dFpuNXNaMWtwYk9BMVctNDltNzBEX1RCal9qdHJfUG5uRW5STUhSelEwRHM1WFI0M2pjbXRsOTlWWHNXUFZiTHJNUXV5OEtxbkFhcDV0WnIxQ0xuaG1WWTFDa0FtenFVeWhOTC1OajBMZXdfaEdQenQ?oc=5",
+        "pubDate": "2026-03-26T07:34:00",
+        "source": "Chosunbiz"
+      },
       {
         "title": "Hyundai E&C teams with HBA to design high-end Apgujeong 3 redevelopment in Seoul",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYXRQc0VPS3Q3U1ctS001YXdzVXNTQ2xsb184UV9XcU5Ka3Z2LTRja2ZNUEw0anhTbkZSVUw4RlZ4YUpuY25NTWVUNmZ2Q2hVQ0dqTVluV0RRTHJBNEdENFdoUUhaOTVGNVh6N0hEaDZhUkp3bFZ4U2EzOERXYm5PRGdITHnSAZgBQVVfeXFMTWZmTkd1Q082dE5XMTQ2SlJnbExpZlhDdEc1VnpSMWc5SG5UNWVLT2h4cnhVdUFoLUp2dFVFMHRoX1V1OTU2Yy1Wck5ETGxJVGNsa2I4VU9OVWZQZk1udXIyWUlKdXVkZlh0WkFSSHdYdFdOZ0FZTDVvS2JLWHhFeDNCbEE3S3NqTHhOWWVOREgtSXR2S2FDUmQ?oc=5",
