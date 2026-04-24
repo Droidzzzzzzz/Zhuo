@@ -1,7 +1,13 @@
 {
-  "lastUpdated": "2026-04-23T09:27:41.880934+00:00",
+  "lastUpdated": "2026-04-24T09:44:19.211491+00:00",
   "companies": {
     "Novo Nordisk": [
+      {
+        "title": "Novo Nordisk to Seek Approval for Pill to Treat Diabetes in Young Patients",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbGRIRmhzTDNVRnVZdDM3MWZibEU1VGdLd21EZ01OVmJIelB6eUdlNnpKTVlybFQ2bzNGNU5tNnJpeDllalYxbHFtUE1aemR1TXVZT1o1REd6cmFLeW9QLVJsQXBTOWw1eFQtdThkR0E3cUxtZ3BXc3RJd3FsX1JaTlhVWGZUNEtQcy03NzBhU0JtZTY2RVpQVmR5SGtuMUF5aVN3Y0g0U2xWN1o2cHJjTS1obDZZSC04?oc=5",
+        "pubDate": "2026-04-23T10:06:00",
+        "source": "WSJ"
+      },
       {
         "title": "Novo Nordisk's new weight-loss pill meets main goal in late-stage diabetes study",
         "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQekFRb3dhVmRac3p0NU1ZdENBUDVRRVc3X29meWpuTHJUZEZIcllTbmpmYjhxb1lCODVuQmR5VFl6OS1GZEJfTkN2VWRIeE9xd3hwX3FyYjRBR2dqR2djNkRoZnI4c1lTNmRjclJQNUlhcF9LMnFjTlBEdjY0VmFNV2k5WEd5WGE4c3JSRWt0c1JwQmJJcUpJS0xKZDJKeUZpay1mbW9tUFo3ZDBxR1hIUVBxbnBHS0xYTFpPQmFfSTdDc2h0TlFMUw?oc=5",
@@ -1595,6 +1601,18 @@
     ],
     "Hyundai E&C": [
       {
+        "title": "Hyundai E&C pilots DRT shuttles to unify Apgujeong resident travel in South Korea",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY3cxNEF5WHFzTEdxRWx2TU9ueV9VUFRIaDhXWlRKUmV3UGZrNzZ5MDFxRlAtVEZwdldGdmF4ZjBLR2EzS0RQMXZMYVBteDc0MTllR2VHMjYtSFVaNHRQdU8zeUZpZ09sczU5UjhqSXpBYVNYdC1nZVdIa1FrQTlHWTBKQkfSAZgBQVVfeXFMTVlXM1dBMEQ0UHFMekswSTNQUkhRTDNnMmJEMWN4RHI5Mkt4VzllbVZ3T0V3TEdjQUV4X2VsdTdrV2ZRV01HNS1lb2xReFQ3TjhLNmpvSS0yM1RoYV9qNlZIS2RudnU5eFBNbFd5RFFxMHhPZ3dlaWdDZ2o2aFR6bWdUOFd2UnFrY0p2bEdWMzlXMVR6RGMyNDc?oc=5",
+        "pubDate": "2026-04-24T05:26:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Hyundai E&C expands child disaster-safety education, supplies helmets in Jinhae",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVmItM1FHb2xURTJmQUhITUQxbXJ4R1RNcFo1VUxydVhjV3BFWEdCRksxUjBaYUpucnhMQ0RCRlVkT1R1Uk14YVViZFZwbUttWEJqN0VtMEE0N2xzSURCbjE4Mk1KOFpQTTRTSnNydkc5SkxlZ2FxVnllc2Q2ZXV0dWQwbTHSAZgBQVVfeXFMTlBVUWVFNnB4ZXAyb2M2eVdFQUtqNnlxNW54YWhWYlhSTFZfWTctYmo0YUtsSDVvVWJKMTVfOTBJV0pldFdWS2U4TUFiU2g2cHlTWVlkUWdNQUQzazdkNkxfMUdvNHhRTmhtSE0yWnB6UlMwOHF3VTVhMFJLMEFyVzllNFVjdTdTUl85SHA0R3E1cDRVLUFBZ08?oc=5",
+        "pubDate": "2026-04-23T23:59:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Hyundai E&C unveils Apgujeong 5 plan with ‘Hyundai Galleria’ smart living",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzdZYjVsMU9oSlkycW8zSTJQQmNOdDFXUU8xRFk2WUEzN0ZyYUNoeHV6UWJhcERPazQ0azZ3SGpGT0pNUzhvXzc3b2VBWWp3dDdLX3Rfazh1R2RJdHlXeldnN0o1TnNrVDJmVFdzeHFIZFAybEJVaEtadmYwTnl3ZWVhSEXSAZgBQVVfeXFMTy1URE9VMlEtZUc3dVUzSFVydi1tZUVtSW5KVmtMNlBxQkJpMG50Qk5TM0hBMGlMYlY0SGRUaXRNemVRZ2ZjbjRNc2laZGdYb0Q4Zm9DWVoyT25QY2tZcTAzVFZYSHZ0NWtQa0ZYS0ZoVFZOREtNYmN3WkdQeWdLaEhZcnVWWlhIc3hxYXU4SXphQ1N2VFRmRHI?oc=5",
         "pubDate": "2026-04-23T05:45:00",
@@ -2197,6 +2215,12 @@
     ],
     "Kiwoom Securities": [
       {
+        "title": "Investment news propels 3billion stock up 8% on KOSDAQ",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNa3loQjVZd3ZDdVkyQmdHcFduTHlSeDNIaXpGbkUyM2pFVlJXdHhXcl9TTngwWVlBY3FJOVdjUmd4UWUxcGZvWW1OcTk4bC1HSHVMRkNCdk5CSDVCVXpVeHpvLU1LLU1udWtzZ3pyd1I2NG9lYzgxSktILVl0VGFHQtIBlAFBVV95cUxPdDVMc1hKa2xDSk5Gb3FaT0U1WkUwdVhIZkdFTzRsOVYwTHpGVXJrSHQ2ZXZIOC1ERmJ6ekhyTzVaSnY3NnlPbXh4TEQtNGRpYm96aXV6RWU0bWlXWW8ydVdzLVNUTDE3a2RFQnEzdTZRMFdiTWo5Y2VFN1JpYXdLWTc2emlrVk1nSUw5RGtPSHNmVHc2?oc=5",
+        "pubDate": "2026-04-24T01:17:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Kiwoom Securities tops 20,000 RIAs as Nvidia leads deposits in South Korea",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVl4UGxsdG00VXROUkp1a1VYRU1TX2liWWE4Q3ZHclJzd0JUNjI5TFBhbTRyQmVRb25aYlpJWEpFSV94OG5GakFVMlkwUmNoTHY2aWw2ZjZKd0d2MGtzQ3VRUzNseDV3YWFYRXpqT0ctR1RzXzZpT1NnWlk4RlRuQtIBlAFBVV95cUxNNzRJc3NMOTdmbE1OekZzUG5xX0FZVjczYkNxc1RlMTYyZV9SLU9XZ3FTOVd4MGw3SmFfZHlGX0lhQTBDNWVBTURtYmp0WHcxSVktdVVjX1hldVF2OGZZci1CeGFhU1ZaLV9rYmlwUjJuNWxoNDM5QURzOFFGS01aT2g1N19TSHFwd0FiOWNVZ3pJMXJM?oc=5",
         "pubDate": "2026-04-23T08:21:00",
@@ -2774,6 +2798,24 @@
       }
     ],
     "Woori Financial Group": [
+      {
+        "title": "Woori Financial Q1 profit falls amid overseas setbacks",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPVHJCdE9rbXgyNVpyT0lRYjltODVmWkVFTHE0MTJ6VWZMb0phWGhoU3dnbmRTVENiVzJkX2YzVjhKbzdVeVRYc0twMmctQnRoZ01wUkhmaw?oc=5",
+        "pubDate": "2026-04-24T08:02:44",
+        "source": "The Korea Herald"
+      },
+      {
+        "title": "Woori Financial misses Q1 consensus as one-offs hit profit, CET1 strengthens",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0x0dVE5UkFmTDVFSkZ5Z3FsSmpkTmRpMl9fcGFBX1R2SnFIdV96S2wzb3BhUVprQU5oSG5nOG9yWXhmTHEwV2FwSWgtQjBTNVZhVy1tT3JHamZBa0RSVGxaemthVEpqM1FmVE15Q09fNTFaR29yQmtqMnBKZGotQdIBlAFBVV95cUxOb2ExSlo2VnJkd2ZGVnZLQUg1Tk82UEppZHJjWi12cFdERmYwbW10Sm5YaVJ6TnVjRGtPNGt5VF9UZnZNcXFEY1I5MEZTekhrek5Bc0RVazBablRNQjZzRDB5SmVGUS1CMlczSktobGFBZnlLYV9jMFRCRUpoMlJITkk4aEJHSkp6cGhiRjl2VERLREFR?oc=5",
+        "pubDate": "2026-04-24T07:17:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "(LEAD) Woori Financial Q1 net falls 2.9 pct",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPd2hGSE90aUYtRGdNVHprV21waGpySVVBMzM2NDRJSWk0RVBjaVNjbjh4OURqT0VmSUhNN0pnQ2hPRGRKOGVZNzlxclgwMlNfSXFyaXRDMExHZlk4bWNlNHUyY0t2X2s4V1ctSGxyWmczME5ZVzdweTIyRUN2M09GOS05ZUI?oc=5",
+        "pubDate": "2026-04-24T07:13:23",
+        "source": "Yonhap News Agency"
+      },
       {
         "title": "Woori Bank partners with Viettel Global to expand financial cooperation in Vietnam",
         "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPNVl1UElMQWRvT2JiMEpTY3kwb1N1a0NhT3dZTGpZT1JYWmhvZno4UkZCbzY5VURVdGNfOFRnd2NHMlgwQnctUG1DVVM1amwyd211NVJGY1pOZ1JfSFJmUVNyS1o5MTNkUXZSY1VSTk9RTzJ0d3Z5TEY3eEp0bGdVNWdqNWxZVXhMa0ZDeG1TNU5Pc28yal9jaFVnOTJLQ3RmZjRfRmZtUV83ZXEyY1RfckFONlhVR3dHZTR4ZGpNd3d2ZFBTcEdhVkFlVUVscWd3OHdrc3NkUnBYZ3BTSTFKWm9BSdIB4wFBVV95cUxPNVl1UElMQWRvT2JiMEpTY3kwb1N1a0NhT3dZTGpZT1JYWmhvZno4UkZCbzY5VURVdGNfOFRnd2NHMlgwQnctUG1DVVM1amwyd211NVJGY1pOZ1JfSFJmUVNyS1o5MTNkUXZSY1VSTk9RTzJ0d3Z5TEY3eEp0bGdVNWdqNWxZVXhMa0ZDeG1TNU5Pc28yal9jaFVnOTJLQ3RmZjRfRmZtUV83ZXEyY1RfckFONlhVR3dHZTR4ZGpNd3d2ZFBTcEdhVkFlVUVscWd3OHdrc3NkUnBYZ3BTSTFKWm9BSQ?oc=5",
