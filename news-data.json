@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-05-07T10:23:38.761807+00:00",
+  "lastUpdated": "2026-05-08T09:20:03.910172+00:00",
   "companies": {
     "Novo Nordisk": [
+      {
+        "title": "Novo Nordisk’s Ozempic India Price Cut Boosts Obesity Drug Sales",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemdFb1djMUJwM0p4LXFQbDIweTBBdklJTXBTLURPMTUyUWpGei1OLWcyVlc2Vk4tbkNCZTMzVGNuYy04V2d2cHFRajFQblp5ZnRabmhFWkx4OUFMOG9oZG9FdUI5OUwwWk1GZjU0bG41VUV0cjJ6dWJkTEpNcnhSTExmWEdYc0g1eEVnSWZJOGRNZ2V6eEhCU09kU3lwRjlSYllOSTZPNmY4QkJrRzUtUFZUZXNxZw?oc=5",
+        "pubDate": "2026-05-08T08:37:36",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "Bloomberg Intelligence: Wegovy pill preferred doctors",
+        "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RVDFCb2NrZDEzNXNhRmpYX1R2b2NjMFF5bW1JdnlZdVpCSGl6M0ZhMjdwUlFoYTlRaHZRTHpMZHJfbmdfMjk3OU9fM2RwdUNHQjJoZmExUElfTHVlUmQwS25IdWtWdHJoYnhlVEdCaw?oc=5",
+        "pubDate": "2026-05-08T06:03:31",
+        "source": "medwatch.com"
+      },
+      {
+        "title": "Healthy Returns: First Ozempic generics in Canada will be a test case for Novo Nordisk",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUTVjQVNuLTZLbENlVDc1T0ZjU2duNFFJSzNiaTJVSlk4MC1SY21kejRyMGNGaE1HSmJSRThHMXcwMDVvWWpDc2YyR1UyMXlBTTRTcVRfZEZqQ2JPRHZ4ZFhCNEpQLXNSU0pVcWl6YlZwaXhjeWF0enhkSkdFQjhFYlczbUFVeC05NXA2Q2VCdDZKdkFyTmJjVGs0RkV2dWxw0gGmAUFVX3lxTFBmSmhNTmpYSXlKSmZBaEVNQklsclZnclk2cDBFeXV0dzBFRnBZZmF0c3hRdFRhRWFGNThUVnVKbjFvUl9taE5NdFdHV2RBRkpTUEs0M2JxcElnX3lJMkVIckQwcFh5a19Odl90WUJvVHQwSHI2LWlpeHJZZEZickM1eXhiZlk5ZUtRTzVrWnNRdXkxRjYybC1EZWRnZjV0VDhjTlF2MHc?oc=5",
+        "pubDate": "2026-05-07T18:33:38",
+        "source": "CNBC"
+      },
+      {
+        "title": "Amazon to carry Ozempic at US kiosks, offer same-day delivery",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUDBDSXJLdmZtS0JUa05CUVpOZmlIMnNIbFBZTExzX1hNQmNiYlBiNTdOclA5S2hrcGxBUFB1R2JvVC04ZWpFUlpLUlh2THdYVlVFZmhReGZFSV9rU1VuTG5tMlVpaThQMTh4UzJFRWU1a041dDZ6bFlvMDlLbmZYR2FDVU9MdzFuM05wb19RSVZHMEp2WE9OTDBfV2NUVEdTclBPZm1uSmpWblZCbWFpcERCelZFcjBVS29hNlhlQURuUzBh?oc=5",
+        "pubDate": "2026-05-07T13:49:33",
+        "source": "Reuters"
+      },
+      {
+        "title": "Novo and Lilly gain on signs weight-loss pills could expand the market",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOVE9NVE1KcjljM3AtZkc2NnpKbWJhSnV4MEgwZldJUWdIT3Nsb3p6S3JMbE4xZzUyZ2FwTUFtOTFhWmJBQWc2c2hsdVBZemFVZjNSZ0JKNVJJSnE1WE50cUV4NzBRYVJfeEVtaERoVkFhMkhPTnFpLVE1YkdEMTdJQnl3czYzeC1GLWFtV0F6bV9EUVF6eVp4ZEhZTGZHbExrT0xZSW5FVF9HLVlRY3ZwRHRxYVEwdDNIV0R1TlZSSzdlTlk0cUt1MllVNA?oc=5",
+        "pubDate": "2026-05-07T13:34:49",
+        "source": "Reuters"
+      },
       {
         "title": "Novo Nordisk Q1 2026 Earnings: Revenue, Profit Beat; Full-Year Forecast Narrowed | Reuters - News and Statistics",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSVdLblpKOHg5bzRNSDl3NUtWTHJGMndscTBKM1phME9WQjRWTjNMOVU2aUcwbVc2SzFVRXNqb1p4c1pwWGFVSFJDRElKWHpuZWRlSjY1TGZpam1GRG5ydUV2aXFFcWlWdkQwcTM4aHp5VjE4dnFTS25Wd1BvVEFYTW9SR2wzRWNNNzZ0RUMyMTBya0h1bEJLQXBuVFlEMDZrdjJicUhpXzc0QXRxN2I2c1FPbDdqVHM?oc=5",
@@ -21,6 +51,12 @@
         "source": "CNBC"
       },
       {
+        "title": "Novo Nordisk gets a second chance at weight-loss supremacy",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZG9FSm9kUTFjbUsyeDVWUnVHT204cGxSOFJHRVR5RmM0al8xenota3lvanRaWE1zSi0tTzdKYTQ2ZGFMMnphTGI5ZGRha0JCZXB0QUtLLWVtSVdaVVBQdjZUM2ZaUmRsS2ljZXhXLVlGdVNTZy1RT0E0Y3FSbEM2UDVZTV8?oc=5",
+        "pubDate": "2026-05-06T16:07:16",
+        "source": "Financial Times"
+      },
+      {
         "title": "Novo Nordisk CEO says the drugmaker is more active than ever in seeking out deals",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQzVSZXQ2Z2tJNzhCU2VrcHBmQVZ0RXpHYURBUldxVlRBbVE1UDRyakNTY0FWOWtXVF9idzZXamI4cWlZMEhOYzlGbE5fblpKWTlNc2NZUUdkbjJTS0E5RF9GNzZwc1RXV0FJYlZFUnZ6WGZkQ0NSekJ4QjN5dXd5SllhNExYMnFvd29vX2liRzdlM0s5TEhvdkxmZUhfVG9y0gGmAUFVX3lxTE54VksyVXhzSkR0d3IyRW5OTVBvbDV5TmI3QnVKREl6LU9NM0NmMlBMTk9YcTFERjFZT3I5SlR4WGhlaDJXWWdLZ09JZy1kOWEwa1EzWjdJWkp3dnh3Y1Y2MXF2a3ZMRjF1QV9qR0hYOUlEcmdmMk9KWHd3MTVlakJhaERoNkJNek1RdkFrRU9taFBRbmpHa0VSMnJkdVVvZk9wdFVna2c?oc=5",
         "pubDate": "2026-05-06T15:56:08",
@@ -33,6 +69,12 @@
         "source": "CNBC"
       },
       {
+        "title": "Novo Sees Generic Ozempic Delayed in China Until Next Year",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVGFFcW1KTFB3THFVWW80d2J1RkxrcWhTZEdRV2lheUtBQVBIZzU0cWQ5YkQ3WXl0S2xZWlVab0prbGJOeWVVTmtIcXE5OUI0NWJHZ1FKQUM2MUsyOVpaaE5hTkc1ZjNVYUpjdnFheHJNU0FURXZXbThJMjJHcmpUcFB3bnVRcmY0YlV2WGZ1d3ZZcHcwLXY4SlVvUTBTdGFyNi1PaHJTdUh5NU5yQ1E?oc=5",
+        "pubDate": "2026-05-06T11:20:56",
+        "source": "Bloomberg.com"
+      },
+      {
         "title": "Novo Stock Rises After Earnings. How It's Hitting Back in Weight-Loss Drug Race.",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY3V2cGNaalJkVlppTUNqY2dtSUp6d3NNeUJIY0hJRFBQMEQ4cFo0UHIyeUl2SlVLWkl3UjFFcEtzWm5rdzliN253c0Y2V3lqVFlkVExDNW5ReHpWdkJNRjhweEZZRTMwaWVQaWRPM2dvTDdIdGFQc180UzY4ZE1mRg?oc=5",
         "pubDate": "2026-05-06T10:12:00",
@@ -43,6 +85,12 @@
         "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBOYU9Zei1DREFYMDAzQ2JoaG9GTVJkT0prMVItUjlWbWs4YzRYeERkVHNVLU5uejZScEt0TTRqbjZUYnozU2twTjRBeFZBakpHbldFZktnMF90UnB0Zjl5TjAybmU?oc=5",
         "pubDate": "2026-05-06T10:04:00",
         "source": "Barron's"
+      },
+      {
+        "title": "Novo Nordisk Shares Jump on Strong Demand for Wegovy Pill",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRDJzWmI4TWJEQTd0VTV1WWVjOXdtQWdHWjN3YU56ckVvcFRmdjhVNm1lTHJ6QmJvTWdTMG0xOUtVRk0ySUNNTDBNNkNkVVNFNHpVY2U4LWtLRW9sbmtHbXR4TTV6V2VzVFkxRnpUaG9iTGxzTWtvLXZjb00wR0VpY2hiM2h0bHZHZFo5ZGl1RlhVNlZILW9jSVhaTTdtWTFfZWh1N3JfaXVJX3VmUU40eU1TRW50ODJBbHd0MlRsZ3F1TERnQlE?oc=5",
+        "pubDate": "2026-05-06T09:58:00",
+        "source": "WSJ"
       },
       {
         "title": "Novo Nordisk CEO: Aim is to expand weight-loss market in U.S.",
@@ -2545,6 +2593,12 @@
     ],
     "Kiwoom Securities": [
       {
+        "title": "NH Securities backs Kiwoom move to integrate foreign accounts, bolstering Korea retail lead",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQmFqVF9kcXlzd3otbDQ3YUpCRzAzOV9PUC0yZGhzZVlpb3FsUXB4ZmFmS09hU1ZNc2JZeHNwWXdCTTZiWjM5UFgyUHhGYzZTVUZIMFNYX0Fic2h5THZCc25tcno0TlAwWVQ1MG5XR3JBX2VNU19hT2wtandKVm1JRdIBlAFBVV95cUxNVDBIME9IM2VWTGtQdDBuclZoR1JFbER5eElBSEcyRmIyN0doaUdIcGh0VEZlSk94YUNPTk9XWVoyc0hybDNGRDN1eXAyZW1xSTc3NkNDUV82TkpnSTZLYWxCOUFURC10WWs1cmFsSFUxbnhCc0RzUUNLcFlvVTNxeHRNMDZIVGlVdHZYWm9VU280RGlr?oc=5",
+        "pubDate": "2026-05-07T23:27:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Kiwoom Securities ad starring Yoo Hae-jin tops 40 million views in South Korea",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0VzcmtGWVYwWlNmVkN1dFBTWDc4aHlSVG9lLUNkeURMNGZ0SWMzYnVFNEJDdGRuNWV1SlhNa0xydTdYNzh5SjM1MzRRYlJsV1Y2UlRGQXU4U21feEtlR0tHd3ZETHM5ZHV6a0phYkhaYjNtcnpNc29RakwzZTg4UER30gGWAUFVX3lxTFBnT0o5cEFibjZieDNjcGZtMXJ2R0NTemE5X3U0QklUc2hnUnBUZFliQkotZFVaTXNUcXFtNUt5ZGd4anJJWEthMnpGeG02MGt6Sm9WbWJUNFZkT2VsMk5hUUdvUTRMaUxJcXRKemRWUjRLWTNlTGNlN05KQjQyLXhkYkphNVpKNERXNFF5WThMZ3pXWGlvdw?oc=5",
         "pubDate": "2026-05-07T08:41:00",
@@ -3177,8 +3231,20 @@
     ],
     "Woori Financial Group": [
       {
+        "title": "NPS picks Woori Bank to manage foreign exchange for ₩886t overseas assets",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWGpwc2tkNkVlRVo2b0ltdzNULWtNOXFOeS1QZ1czVktvM1VtbnpKRWV4aFdqajZoZk5GVkh2WXJjV0ZTV0F0b1E5b2RYalNUbkcxUUVJejM1VHpvcmxPWUhJMVJfOE00cGdIMnRyaVd0aERjM2NSbWVLWGFDbFpmeNIBlAFBVV95cUxOZDNMU1Z1ajk4WHNHVjY4TnZWTWJoZHhjeFpid1BrM0lEVUhKR0lYazhIdmRITDZMYy1Kcm8yblk1cXFGdVI5WnpkTWFsaHpHQURySGo0OE5BY0dWeTRuMWg4ZkN6a0h0eVNvU2xPdE4xYXNrcURBWjdCWlMyYlpPWGlMOThTMjdQNE82MDh0UjROb0lO?oc=5",
+        "pubDate": "2026-05-07T11:00:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Woori Financial accelerates Tongyang Life delisting with full-ownership swap in Korea",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdzFaSUtFUllZbGlCeVk3SnBoR1FER2JpY3NfYzQ3MkkzQVlTQVZ2c0dpMEUtQThFaHdaWjVFZG81Y1lmQTFhd0RwbGRMcmQ2MUxTYjhYc0FSenRWMUV2eWpISjh0YXpiVnpPYlhnVE5xeGNuTGl1Sm43UzVNUmxQNNIBlAFBVV95cUxQbkJadVFBd21xVWd2N08xd3NOSzJHeGswUmVuS2FYNmtkaW9OcGw1Zk9yUXgzNks2aWF6dTY2ejhUMmtxWnNtT1FtbU9RX2hWN1FCbDlEcEJ6ckJfZG5aRFFtdkJDNlltSWdyMzBDbEJybV92ME1EejZrcV84Qkd6UDV5b3gyQlJUdFJ1eFFmYlJaOWxH?oc=5",
+        "pubDate": "2026-05-07T07:33:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Woori Financial accelerates Tongyang Life delisting with full-ownership swap in Korea",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbkJadVFBd21xVWd2N08xd3NOSzJHeGswUmVuS2FYNmtkaW9OcGw1Zk9yUXgzNks2aWF6dTY2ejhUMmtxWnNtT1FtbU9RX2hWN1FCbDlEcEJ6ckJfZG5aRFFtdkJDNlltSWdyMzBDbEJybV92ME1EejZrcV84Qkd6UDV5b3gyQlJUdFJ1eFFmYlJaOWxH0gGUAUFVX3lxTFBuQlp1UUF3bXFVZ3Y3TzF3c05LMkd4azBSZW5LYVg2a2Rpb05wbDVmT3JReDM2SzZpYXp1NjZ6OFQya3Fac21PUW1tT1FfaFY3UUJsOURwQnpyQl9kblpEUW12QkM2WW1JZ3IzMENsQnJtX3YwTUR6NmtxXzhCR3pQNXlveDJCUlR0UnV4UWZiUlo5bEc?oc=5",
         "pubDate": "2026-05-07T07:33:00",
         "source": "Chosunbiz"
       },
