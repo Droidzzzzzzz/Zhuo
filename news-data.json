@@ -1,7 +1,37 @@
 {
-  "lastUpdated": "2026-06-11T12:08:43.794839+00:00",
+  "lastUpdated": "2026-06-12T11:42:18.296568+00:00",
   "companies": {
     "Novo Nordisk": [
+      {
+        "title": "Novo Nordisk flags patient data breach from some clinical trials in cyberattack",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTZBaWE3VXFXenJYX2U1WTZZUHdWc2lxSGdTZFA4UDlVcXdaNVJET2MzZTEzdDF1SFRONllBb1U4aDU4alJCdkpiSkQwVnE4c1U5QlRrdDhpSExiTjQ4dTBodGUwajhQME5fSlJINzg5NzFQZ1pwRFBfRV9oOHI2NnJZSVBBbWRMN0JQQWtPNWRLa0lETW9pZ1pyVjlYWWJCcG5sNGlzeXRoUQ?oc=5",
+        "pubDate": "2026-06-11T21:55:51",
+        "source": "Reuters"
+      },
+      {
+        "title": "UK approves Novo weight-loss pill to edge open European market",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVzEwbDlKNFYwUWN3bXdKTnZGeUczWEFmZ29wRW1JLU5jQmJPcGdVZWt2MTV3YnRaSDdDc05KZHkzdXJJRWlNY1dhVHlBXzVfVHBLRWgzZHAyUW1vNC1iSkxWTDYxT2JrOVNqNFY4bXZfODhDZWNtWmE2aV92LXdOZl9aWUlQelFLMlliLVo0RWZiNWdLRzYwbndwWTkxcG5HNDVRaE1qN3d3VjAxOG5XaVh3?oc=5",
+        "pubDate": "2026-06-11T20:22:40",
+        "source": "Reuters"
+      },
+      {
+        "title": "Novo’s Wegovy Pill Wins Approval in UK for Obesity Treatment",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdUUxemhEM19qU2NmUVdsM0V4Z09Sb1FzajgwZW4waTJHb3RzYVVlRmRSa2NCY0NQaExFb1VxTXlLSjd4dFJBRFhnc0JiQm9DWmVTTmYwZERZX1NKNTNLRllkTFRkNFVHY3dnUDVJZHhHTkVRelRHZUx6U09PRDI0anVycTZMa3RhandVcFZZZjB4UXM0Si1YemFoZEkzaFZrTTloeEtmTENKQ0JzOUNXUA?oc=5",
+        "pubDate": "2026-06-11T16:41:50",
+        "source": "Bloomberg"
+      },
+      {
+        "title": "Novo Nordisk’s Wegovy Weight Loss Pill Approved in the U.K.",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ0M0TkxaR0dnVUdtLTdNbzZ6ZXdhckx6U29WaU90TnQ2NndCRERkNkd4Uy1tb1laNTNnN2FOeWcyZm4zc2REVHFpN0R1b0lWNGstSFdlaEUyUEpsQTdOSEsyZ2NqOHExd3l5M0hXWEpaNEtTZDZORVZ0X3lBeTFVdEdGZGZOTTZTcTdTVnVwWUJsdlZ1a184VkJlR05Sa3ZnNWc?oc=5",
+        "pubDate": "2026-06-11T16:28:00",
+        "source": "WSJ"
+      },
+      {
+        "title": "Novo Detects Unauthorized Access to Some Internal IT Systems",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOal9TS2VhNDhMQUsyS3UxOVc2NmUyTlMxOGVhQnh0TjB2VkNXV2FrS3RHTWdTUkQ4MEttZ2Q5cVBWZ0N1TzM1QWhRd00yV2FTb2tlOTVyZGtzQmRkdDhaWnRHZGh0UTcxMHN6SzRwM2FEeUVzR2R1X3BFTHFFWTc2OEpkUUZ0MXRfWVR5OENOVUdTUFBSYWZ3MGpoeHZmTUZXMGljbE9pUjFrWjlER1NrTA?oc=5",
+        "pubDate": "2026-06-11T15:57:06",
+        "source": "Bloomberg"
+      },
       {
         "title": "Some US employers to drop coverage of GLP-1 obesity drugs in 2027 as use increases",
         "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPdktJUEg1UWw5cXJVWW5pc01DZTBXdXhvRTMxZ2sxZTg1a2VsbU1TNWVCWFJCNWJlWmc4QzdQUlBNUkFWWjBCWjB3NWctMlpYcmhwMnQyb2FjTjVRMXFQYjlkSzhWQ0dUVFhfRk5hZEFZTjdRSXNKQ2QxQWQ0V0xYR2hHckdFZm45Z0tDR1RDVmViXzZZLTRLRUtXQV9fcmlRaU9XNzREUFI5bWI0VlVxOF9yUHlPWTB0ZGl0djRZRkU?oc=5",
@@ -13,6 +43,12 @@
         "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRlF4eU5yOEd6SDlXTXJwVnc0RzZfWjBJR0wzTFZfUWxOQVkyaF9nbnhuMGZRTGpkLTdLZDFGYWVudXpaWGR5ZlMxaURadHVLY29WdEU4T25hWlM2VVVKLVU4YnBJUnJSMFpLV2hvZHd6YUl2MkZhckRZZG1WRE9iYkN2SWVPM25qQnFHVHRXUnM3bncxcjhIc0MzQjhQcXczTjFjWHRCME5qTnZZUGJLZnRmN0ZLeVZhQ3pXNk5OeWVrNENRUm5ZdnJsOE5KTDNuVW5JUw?oc=5",
         "pubDate": "2026-06-10T17:35:18",
         "source": "Investing.com Nigeria"
+      },
+      {
+        "title": "Novo Nordisk Wegovy pill draws 10,000 UK waitlist ahead of approval",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQLWR2RTFxS0c2NXUzaWRsNFdUVTBRNFFRWlJZUVJENXRwQlBleW5RaUpNRTVCdTVzVnd4ZE42RE5KMlowQXM1ZzVWd2NhcDJmVXE0LXF4eEN2TExzMWk1bUV3a1d2eTk5S0VHdmg1N2thWTUzLU96T3ZjYWpIUnkybEJHSHlYdE5vaWlzUHlMdjVMTGlaZUV0OHZzbHNjVGIwcDV3Wkt5aU1aUjNJLTFUOEhvR2FRV0V4VlVhcnhlU3ktbkdyUHpOWUVrbUMtblQySkZWaGRR?oc=5",
+        "pubDate": "2026-06-10T17:14:35",
+        "source": "Investing.com"
       },
       {
         "title": "Novo’s Wegovy Pill Already Has a 10,000-Person UK Waiting List",
@@ -65,6 +101,12 @@
       {
         "title": "Novo and Lilly are competing to win the GLP-1 pill market as they prepare for Medicare coverage",
         "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHNNMUZkeXRIRm8tejJ4UG5zWFNXWWVWT1IxS3RvdXBVZlhlSHZYdlJUbktJaC1seVFlLVFJWEx5VlE3UnU0ZlRSTEpVZnFwNXRfaWM4SERVZzdnT2VxM0EyZzBmMDI1b18tWGxqLXdZM0FkSUxWYmQ5QUtwVERzSmNmM3AzYmRPN0F4eXdlMXZ0azFRTXfSAZsBQVVfeXFMT1pVbWNyWkE4dHNaRm51VGJtRFNna0hWemV3X3F0TWxSQzRuSjVoOExCUlYwTHFvLVhPNk40eW1SWUw3c3lpR2IzaDcxVXRWTDg5Z21LeGxxRV81UDd2VXppbVhONUV1U1M2SjFYLUN0QU5tMVdRejJUR0NOb0lYVUdPY2puSnU3Y05WaUFreHF0X0l0NC1LUXlIOGM?oc=5",
+        "pubDate": "2026-06-08T14:30:37",
+        "source": "CNBC"
+      },
+      {
+        "title": "Novo and Lilly are competing to win the GLP-1 pill market as they prepare for Medicare coverage",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOHNNMUZkeXRIRm8tejJ4UG5zWFNXWWVWT1IxS3RvdXBVZlhlSHZYdlJUbktJaC1seVFlLVFJWEx5VlE3UnU0ZlRSTEpVZnFwNXRfaWM4SERVZzdnT2VxM0EyZzBmMDI1b18tWGxqLXdZM0FkSUxWYmQ5QUtwVERzSmNmM3AzYmRPN0F4eXdlMXZ0azFRTXc?oc=5",
         "pubDate": "2026-06-08T14:30:37",
         "source": "CNBC"
       },
@@ -2171,8 +2213,20 @@
     ],
     "Hyundai E&C": [
       {
+        "title": "Seoul penalizes Hyundai E&C over missing rebar at GTX-A Samsung Station",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMm1OWFhuaDhOWl9ZOXUzOHRpR0dQZ2lzS2JnWnBKYjlvaU9vNHZVWVZkUHpqQ0o4VU9VVHZfWVM5RGJHX2pRX3VfZUNVdDdRTUljUHhuZGstZjY4QkNTVUw0Mk9DYTNXVS1VWVlHVGJVajZBYWVGbjdYUlkteHZlRzQtQ3fSAZgBQVVfeXFMTnhHQ1VKdnQzM0ZsNkxRLWgzUlhwbmduNnFpYXp5Ylhnemd2bmFFZ2dWeER5M095V3JIaVpqMlJhNDBtZl9POEIyMlFUZU1lSnNhWWFyRTd6TFBlVzFSWTRJWXdDRjF6Q1hLZUpIWGZ2Njltblk0a19CUWYyZHFHWTJGZUlSSHFtcHZ2MU45N2h0ZElmUWhvUWE?oc=5",
+        "pubDate": "2026-06-12T00:57:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "LS Securities trims Hyundai E&C target after CB issue but keeps Buy top pick",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOeU03Vk4yVUNZVng4VFhUQ1Y2Y29lOXNJRHhLSUNVbm9zRTY1bU1oTUpDai0xYnprYXZpUWctY2dVUkZSVUlmZ3U3RUV2XzVNMU02dWpGaWRKYUVqdFI4RDdJMUJhb1pGYWFFcjd6YnlvSmJJZmNKNDVISkYzVW1zY9IBlAFBVV95cUxOaTQ4LVcyMUw5WnM5UmlmQXhMOUJxa2pPN204Y2J0V2ZkUHdVVUFMZXF2eU5ZQXJqLTJUU1dLdVdlMk1XTUdSTnJOanBOeUJicXlDeDk1Rk9HekZuOUZxeGFTSWJmbmZRdFVRd1RubzlhWnpCaTZMLXlQLW5nR2F3UDVoMlVmWWZGWElnU2JpZHdfekpY?oc=5",
+        "pubDate": "2026-06-09T23:32:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "LS Securities trims Hyundai E&C target after CB issue but keeps Buy top pick",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTQ4LVcyMUw5WnM5UmlmQXhMOUJxa2pPN204Y2J0V2ZkUHdVVUFMZXF2eU5ZQXJqLTJUU1dLdVdlMk1XTUdSTnJOanBOeUJicXlDeDk1Rk9HekZuOUZxeGFTSWJmbmZRdFVRd1RubzlhWnpCaTZMLXlQLW5nR2F3UDVoMlVmWWZGWElnU2JpZHdfekpY0gGUAUFVX3lxTE5pNDgtVzIxTDlaczlSaWZBeEw5QnFrak83bThjYnRXZmRQd1VVQUxlcXZ5TllBcmotMlRTV0t1V2UyTVdNR1JOck5qcE55QmJxeUN4OTVGT0d6Rm45RnF4YVNJYmZuZlF0VVF3VG5vOWFaekJpNkwteVAtbmdHYXdQNWgyVWZZZkZYSWdTYmlkd196Slg?oc=5",
         "pubDate": "2026-06-09T23:32:00",
         "source": "Chosunbiz"
       },
@@ -3879,6 +3933,12 @@
     ],
     "Woori Financial Group": [
       {
+        "title": "Tongyang Life Insurance convenes extra meeting to defend Woori share swap",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcVFDUG5qTWFsV3dsS2Z3UHg0UU1wenNjX19Oc2g1ZWppTkIxT21jRGVFWG5RTWctbU0xNEZCUjlhUWVyQlNLLWlFX2pnVENHOFE4aGNnQzJ0N21tN1NnRkVud0NGdXF3alZKRnZKVkRqdU1ibExnRHdUWDNmdkRGMmI1RkhVcGdnYlExQ0NKUi1sUEgy0gGUAUFVX3lxTE5xUUNQbmpNYWxXd2xLZndQeDRRTXB6c2NfX05zaDVlamlOQjFPbWNEZUVYblFNZy1tTTE0RkJSOWFRZXJCU0staUVfamdUQ0c4UThoY2dDMnQ3bW03U2dGRW53Q0Z1cXdqVkpGdkpWRGp1TWJsTGdEd1RYM2Z2REYyYjVGSFVwZ2diUTFDQ0pSLWxQSDI?oc=5",
+        "pubDate": "2026-06-12T05:49:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Woori Bank to launch digital wallet service for foreign tourists",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5TcC1qdUNmYUJJVHMwSW5RekJMdFRGRnJMd2JVRTh0Q0hlVnlqWU5jRktjdG9EMXh2QzZUWmRWN2NYaTFRN2kyM2hxam9rZk93TGdNZUo1dw?oc=5",
         "pubDate": "2026-06-11T05:01:29",
@@ -3887,6 +3947,12 @@
       {
         "title": "FSS inspects CSR at Korea’s four major financial groups, starts with Woori",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNldOT29pMTBpZXQ0bDN1dGtBTjhTSzh2ZXRXTk0xdEFuQzg1SlVWSFNjdFNvb2p3bFBtdWxoUVpPXzFwTThMS3RIWEU0RXNVckFuakQ5b0RXdFFCWk5PeHd6dkxXa1d2ZWRoekVKX182blJfWDlzcXJncmRFTEJWWlNVeF9BT3ZlZk5ZRV9iSmdYbXFa0gGUAUFVX3lxTE82V05Pb2kxMGlldDRsM3V0a0FOOFNLOHZldFdOTTF0QW5DODVKVVZIU2N0U29vandsUG11bGhRWk9fMXBNOExLdEhYRTRFc1VyQW5qRDlvRFd0UUJaTk94d3p2TFdrV3ZlZGh6RUpfXzZuUl9YOXNxcmdyZEVMQlZaU1V4X0FPdmVmTllFX2JKZ1htcVo?oc=5",
+        "pubDate": "2026-06-10T08:22:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "FSS inspects CSR at Korea’s four major financial groups, starts with Woori",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPbXNFaGVCX3NMczVLQktYSmliRDVxOEZ6aV9IakJRd2ZNRDZZSHFRVkhWcUhzSEYyNUp1LURwVE8zRVpqekp4VjlDUXJXb24tSDR4Znk2SXpJdXpWaDdWWE9XSTVjTXNUTDFOSFB0R3E5aHpHbUR0YXNXUXFkcWpQY9IBlAFBVV95cUxPNldOT29pMTBpZXQ0bDN1dGtBTjhTSzh2ZXRXTk0xdEFuQzg1SlVWSFNjdFNvb2p3bFBtdWxoUVpPXzFwTThMS3RIWEU0RXNVckFuakQ5b0RXdFFCWk5PeHd6dkxXa1d2ZWRoekVKX182blJfWDlzcXJncmRFTEJWWlNVeF9BT3ZlZk5ZRV9iSmdYbXFa?oc=5",
         "pubDate": "2026-06-10T08:22:00",
         "source": "Chosunbiz"
       },
