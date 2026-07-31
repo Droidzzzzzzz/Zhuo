@@ -1,7 +1,13 @@
 {
-  "lastUpdated": "2026-07-30T10:23:11.195563+00:00",
+  "lastUpdated": "2026-07-31T10:37:10.120156+00:00",
   "companies": {
     "Novo Nordisk": [
+      {
+        "title": "New GLP-1s Are on the Way. They’ll Treat a Lot More Than Obesity.",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMVFNOWZ3dXpETl9lRWZ5MnNoRzlWcU5LNjlZalJXV1VERVRTdEN0OVI1QWZDdFpTVl9RTkxTcGhpejhtNWdkcmNjN1N5djNSajc4RXU2aGFpanhJaGZwMWhMRWE3eGZOUUk1TFhrS3JqWlFid0s2Mno4Z3BndTUwNDF3UGk3Q05SQUpTdHlZSUFPT1BReHc?oc=5",
+        "pubDate": "2026-07-31T05:00:00",
+        "source": "Barron's"
+      },
       {
         "title": "Novo Nordisk Investors Advance Weight Loss Drug Trial Suit (1)",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQenVDTy03ckxZeGRoeHk4NVRoNXNCbUFyaDJVN2FSRFJhT3VrbERfR3FJYTlROWQxTFZ2akc4RTREQ05mb1dpaGlmd0U0RDJqRTE3RUdCaEtyVDEybzdqeXdtajFSU09hY2s1ZC05QkQ4cXJ0aG9JOWdGSE14c1J6aE9sMUlvMTFuVGZGbEE0RkZPVERqMklVb2MyVXlVQmFvcVZ3ZEl0azhldw?oc=5",
@@ -2489,8 +2495,32 @@
     ],
     "Hyundai E&C": [
       {
+        "title": "Hyundai E&C lifts Q2 profit as backlog tops 100 trillion won in South Korea",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1F2d3RJbVpvdDhucUhsMnl6eDJHWlVYYlNjbkV5WUw3U2FxRTJ6QkZJUGRhcmNvODNrN2VJak9oTzFVbEpiOXVHc1VCM3pXSzdmYW5aQXhwTnhfZ2RsOGQ5czNxVTJjWEUzSjhRSFQycXR4eWR0UjJHZTFjUzg2WmJsRDTSAZgBQVVfeXFMTmpwN3NneGZPVDBkUWNpN0tHOFJvVHFBNkRfRGNyaUlPOHl2UVk4OUV0X1ZNS2VFZWR2ZVdGOGs1bjVOMDh3NzA3eGJCeVJwY1M1dTJsSEl4Mkh2LTVXaGJ5enMyQVBmSmtQc2VCUWd2amFEU0E0MVNaakxaWXU5WWt6a2tWRnZrcmdvOU5BRGUteFBxSFA4dEs?oc=5",
+        "pubDate": "2026-07-31T05:20:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Hyundai Engineering pivots toward energy, AI infrastructure",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrSExSTy1WYTA3WjRzVTM5OW9HZUVrNDkyVVJRSkExa3FqcWhlUDhyR2ZlajZtLWsxLTJOZ2dwMGt1bTFJek5aMkx2ckNvbkVsVWwzX29qZw?oc=5",
+        "pubDate": "2026-07-31T04:49:12",
+        "source": "The Korea Herald"
+      },
+      {
+        "title": "Hyundai Engineering unveils value system, pivots to space-energy growth in Korea",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUUprRkJfZVFnaTV1UTRFdVlXSWE3cjd6dlVTdFVXN09CYl9SR09GbFVETVFSNkdmcmZGMklnWlIyeE1ONzhKVUwtWlhZdnFBYnR3SklaS3ZoSjJCSGJjZDNVanNmYzRKZWhVU1ZhaTNzdE1oZlk2bmJxNlpDN3VSV0lNTWXSAZgBQVVfeXFMTnV5NGdMUjhTbE16NXR0QjUwNVA3Tm8xQ2JEdGVqcFNiU3pHeXpvdW5QV0VXejJfMHBIWWhiTVpGbVZ0VS16eDNaaWExeDAtSWtBRzUySi0wakF2b1pxOVBndHUxWFZPblVOOExGR1hBbGlCc1hNTjlITVB6M2hPUWhXelZTVVJ3MDhRd0g2RlJfRm8wQ2NMZl8?oc=5",
+        "pubDate": "2026-07-31T01:23:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Samsung C&T tops Korea construction rankings as MOLIT readies 2026 review",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWJaRnNlTkpHVTdDT1JXbmlBc3dsRnkweF8ycS1Xd1JiNl9fT1owSnBZd1dtejVXTVM2VHpPTHVnbHNVYW9MVm8zLWNXZVBSSFcwMm44cFk3OVU3c2d0M2ktSjNfYzJ4cTZwbDhOXzdQSTdraXZ0anpmZTVfYzF4UUdWdzDSAZgBQVVfeXFMT2Y0N3hHNWdqeXl2LTBQWS1XZ2ZXVXlCUmg4ZFRmWGVvQTZob2JQekxFVFpTYUo3bFNLbmlkdDNHZFU1Z2xYNWJFNEItQWFmanJiNVg5b29UQ3ZLQmlJLXlIN01qUmF0Q3JWU0NIQ2pKQmR2OEJlWmNUNTNtd00tb2NZUVBFVGdLT2w4WGo1SlBBdGNsMWF6T24?oc=5",
+        "pubDate": "2026-07-30T04:18:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Samsung C&T tops Korea construction rankings as MOLIT readies 2026 review",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZjQ3eEc1Z2p5eXYtMFBZLVdnZldVeUJSaDhkVGZYZW9BNmhvYlB6TEVUWlNhSjdsU0tuaWR0M0dkVTVnbFg1YkU0Qi1BYWZqcmI1WDlvb1RDdktCaUkteUg3TWpSYXRDclZTQ0hDakpCZHY4QmVaY1Q1M213TS1vY1lRUEVUZ0tPbDhYajVKUEF0Y2wxYXpPbtIBmAFBVV95cUxPZjQ3eEc1Z2p5eXYtMFBZLVdnZldVeUJSaDhkVGZYZW9BNmhvYlB6TEVUWlNhSjdsU0tuaWR0M0dkVTVnbFg1YkU0Qi1BYWZqcmI1WDlvb1RDdktCaUkteUg3TWpSYXRDclZTQ0hDakpCZHY4QmVaY1Q1M213TS1vY1lRUEVUZ0tPbDhYajVKUEF0Y2wxYXpPbg?oc=5",
         "pubDate": "2026-07-30T04:18:00",
         "source": "Chosunbiz"
       },
@@ -3589,14 +3619,32 @@
     ],
     "Kiwoom Securities": [
       {
+        "title": "Shinhan sees Kiwoom post record profit, boost shareholder returns in Korea",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU2FpVjRXY2tOYjhYME5GTUw4YXh2d1FZQTYtR3dhcmJXbnR5VjByRjZHcFpRUEh0RGRaYkZCRWdjWjNRZXlxQ0VGN0hUX1lHVXdzeDdLN0J1YlBIZGdLZXVMb25XQTRCX0EzSEF1OUdMSGtWZlhOdlBxX0Q3cl9ZdtIBlAFBVV95cUxQTmZEZ2NPdkpDNEhMTDE0QXM5Z1JEemhQcTQ3OGxPeWpMNDFzRTljclVGWldnakJwOXlaOGdTMlVwYzN4ZVNrRlBHbC1lamlMcFh2MWt0bkQtZGVIQ3I0bmdxNk1yQl9BdkRnMUZJNUhUSURFeDVtejZDeHVhVUtwYndmUWQ3aFBac2duUTB6ZWc5MEha?oc=5",
+        "pubDate": "2026-07-31T00:00:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Kiwoom Securities surges as Q2 profit jumps on Korea trading boom",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSFQ3cGpycTN2YVl6MFhELTJxTTN1Z21vUVZjUERRc3A4bDJwZG9Pc3piVkp3UXluXzRFaEh1NXF6U0Rpb0dFZFFFa0JKYUpBZzFTbmdWaWE3Q19Ua0FQU1h2ZlRhSG44cWxDVVdfU0s1MnQ4WWJZNmlhamk0VGFQOG9zSTFkUUYtcFRSYnRXU3J6eDF00gGUAUFVX3lxTFBIVDdwanJxM3ZhWXowWEQtMnFNM3VnbW9RVmNQRFFzcDhsMnBkb09zemJWSndReW5fNEVoSHU1cXpTRGlvR0VkUUVrQkphSkFnMVNuZ1ZpYTdDX1RrQVBTWHZmVGFIbjhxbENVV19TSzUydDhZYlk2aWFqaTRUYVA4b3NJMWRRRi1wVFJidFdTcnp4MXQ?oc=5",
         "pubDate": "2026-07-30T00:31:00",
         "source": "Chosunbiz"
       },
       {
+        "title": "Kiwoom Securities surges as Q2 profit jumps on Korea trading boom",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQVdSN1c1cGlxVktZdldqSGM4SkVsR1VFYjZWUjJETDRPNm8xTmtfWnBuQTlCN0txcWhvY1NzRUU1UFdIM2ZwXzZjMUhheHV0bjhnaWJ4WkFsV28yRW5LMFNDam0zMWczZU5XcXUwazhQT3hUUjd3eWJzQlJ6cFhCLdIBlAFBVV95cUxQSFQ3cGpycTN2YVl6MFhELTJxTTN1Z21vUVZjUERRc3A4bDJwZG9Pc3piVkp3UXluXzRFaEh1NXF6U0Rpb0dFZFFFa0JKYUpBZzFTbmdWaWE3Q19Ua0FQU1h2ZlRhSG44cWxDVVdfU0s1MnQ4WWJZNmlhamk0VGFQOG9zSTFkUUYtcFRSYnRXU3J6eDF0?oc=5",
+        "pubDate": "2026-07-30T00:31:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Kiwoom Securities surges as South Korea stock boom lifts Q2 profit 119%",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPc3RtRmRqeFBQSTh3Nko2elJxUl9WQkdsdGVJaEJUYkFvYUpRVERtVGlnTkJYWGh0QnZpQW1JS3dIekItTGVObUt0ejVyeUpUVmZQSEJGcTMtNm1sanBocVNhOXNONDdaRjBhVk5HVVdVMEpFQWwzOHQ5RzBjRzlTM0MyRk96WEJHZ0dLczZKcGEtd0pU0gGUAUFVX3lxTE9zdG1GZGp4UFBJOHc2SjZ6UnFSX1ZCR2x0ZUloQlRiQW9hSlFURG1UaWdOQlhYaHRCdmlBbUlLd0h6Qi1MZU5tS3R6NXJ5SlRWZlBIQkZxMy02bWxqcGhxU2E5c040N1pGMGFWTkdVV1UwSkVBbDM4dDlHMGNHOVMzQzJGT3pYQkdnR0tzNkpwYS13SlQ?oc=5",
+        "pubDate": "2026-07-29T23:35:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Kiwoom Securities surges as South Korea stock boom lifts Q2 profit 119%",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOU3p3VXVWbHg3Vm92T1dqX2x2R2gzdmdPdllpSHJEendZVVdxa1h3SUljS0lMVldvTDBWUGY2WTRjSm1JSTQ4amNHcmFvbThJVkRpSGFCaXRTYW5zXzVFTWlnOGVZMEtzdnd4RXhTaVFiekQxX19ORVUxV2JLOWRoa9IBlAFBVV95cUxPc3RtRmRqeFBQSTh3Nko2elJxUl9WQkdsdGVJaEJUYkFvYUpRVERtVGlnTkJYWGh0QnZpQW1JS3dIekItTGVObUt0ejVyeUpUVmZQSEJGcTMtNm1sanBocVNhOXNONDdaRjBhVk5HVVdVMEpFQWwzOHQ5RzBjRzlTM0MyRk96WEJHZ0dLczZKcGEtd0pU?oc=5",
         "pubDate": "2026-07-29T23:35:00",
         "source": "Chosunbiz"
       },
@@ -4538,6 +4586,12 @@
       }
     ],
     "Woori Financial Group": [
+      {
+        "title": "Korea’s FSC names 10 banks and groups systemically important, orders extra capital",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOa1JUc0s1YUtqYkpUXzczb3R3cWN6ZFNfNlB0MmhCR09RSktkMzN5OW5aa3gwaTVyR1ZHOWxqN0lvOWVuZGYwazlmSnNsMTBaTVBPNV83OV85Zl9YWV9lOHZaSFllcl9oOENLWkQta0lWcWpxOVFZOGpoLUptMTBPddIBlAFBVV95cUxPM19KcmtaZzQza0Q4eWRXOFpzdTJOa25WWjJPVGNSc1luaTktVWg0d2Z6bmNBX3FJM0hmRTl1WnRsZnpXd2VsckVGMHpScXB2a1k1Und1SWRPRWlxX0djNll2NjFLS2VDM3NCeDdRVm5HX2tYeGRXZkRqUDRQSGhINnpLWHlNMENhYzE5TUlfQ2NYU0FQ?oc=5",
+        "pubDate": "2026-07-31T06:59:00",
+        "source": "Chosunbiz"
+      },
       {
         "title": "Shinhan Bank sells Myeong-dong Expace, eyes securitization and leaseback",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPck5OT1lDdEt3TnBnT0ZDTmJmWVpFUUhJQ3pxV3ZtbDdIZG9TcXFUalYtWkU2T3ZJb1BSN09IazJZUDdyVmFtV1ktTjdUdC1sLVdKZExndnlWSklhV2NpdXNJeUtrUWJVZTN1YXQ0T3VOanVpbjY3SVRnb2o4QVA4Z9IBlAFBVV95cUxPTm1pWjJvcDgyUlhpR1d3ZWxfLW5YU0l3bmJLNkNTaVFxNXMtbHVyVmpGZllYTWJiNWhZNjIyWEhhRXJhNEctZktTRjBrdjQyOERPaW96bWc1blkxbEJMTkZzcjZ6OWJTQVZSNzRHbjR0QjBLMHlReHNkdlpBeGhWdVI2VmZfbXNsVHlUdUNrSU8zMllm?oc=5",
