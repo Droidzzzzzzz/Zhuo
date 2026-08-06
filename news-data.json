@@ -1,7 +1,55 @@
 {
-  "lastUpdated": "2026-08-05T10:32:43.848195+00:00",
+  "lastUpdated": "2026-08-06T10:36:44.819596+00:00",
   "companies": {
     "Novo Nordisk": [
+      {
+        "title": "How Novo Nordisk’s CEO Says He Is Shifting the Company’s Perspective",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQd2REdFJBWVNNMUtvckxFNjBWdGdROTRLM0Jla0U4VUVQUGpMQloyY2NHRzl2dmlYZ0t4MmZZdVBJUUZQWGVzTHoyRV9EeFBRT3NTTFN3LUJUQUNQcTZCZmkwTU1TVjg0Y2FEUXJNRjFFY1hyQnhkdUlpbUFLYlBsdTVTeFpkN2Y1R3c3VWEwVGdoaXdNYXl3d3NfdXB1NkVVazdQaXJmbw?oc=5",
+        "pubDate": "2026-08-06T09:49:00",
+        "source": "WSJ"
+      },
+      {
+        "title": "Novo Nordisk looks to future proof as investors worry over pipeline",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5IelVkaG9TQ0U3YW9mb1F5cHdkVUhkSUhIbG1UYUg2WU41TjZXSk1Lc1BZc0ZlemcwODJscTExMkVVMWh3aHNEd3E3N0szZWcwdXQzaDlPbEN2NDB2T0xyYmVfbXE4V1k?oc=5",
+        "pubDate": "2026-08-05T20:20:01",
+        "source": "Reuters"
+      },
+      {
+        "title": "Lilly beats estimates on resilient demand for injectable GLP-1 drugs, widens gap with Novo",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNQUM2ak5mV1hSTDU0UzlDQVoxVERuOTNXT1p5OTJmbkdjaWFlVHBnLTVORDZkQmdBY0hFYlZCZzJsaV9lZTl5QXBFMUFLNDBkYmxoRi1CUXZncTVOZnE3NXFzb1dGdG93d2Q3MHpQelNsLV9jbzREblJEMmtOSTZBbTkwaGxzc3ItV0RPNGJHNk04Ti1kaEQ0UG04ekxRNk94SHBuUFprcl9kY2Y3dmxuTjh5RHBaQWdlR1Y4T0hTTjRZY1QwMnhjaXJzQTJNZjl1WlpPUFFmcVBCTkNBc253?oc=5",
+        "pubDate": "2026-08-05T17:51:09",
+        "source": "Reuters"
+      },
+      {
+        "title": "Novo Nordisk Is Exiting a ‘Rough Patch,’ CFO Says. Earnings Prove It.",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdjBXa1FBbkN2QTAtNk40M2o2WS1EeXBGYlp6c2t3TDRycFFEVFAxc2ZVMmdfemstbVlTRTU0RlZWaXpzb2VPWVh3M01jdjdiX25RNlhLdGRrREpZOHg0OVVIYkZ0aFlFZW5rbFppQnRTRlFtVks3TjVSalBPQjVfVQ?oc=5",
+        "pubDate": "2026-08-05T17:49:00",
+        "source": "Barron's"
+      },
+      {
+        "title": "Novo Nordisk wins Dutch court injunction in semaglutide patent infringement case",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQVJOTDNRQmlvcHhPQmpONUZzeEFjaWVtaS1STU9FczRqTE4tZGhYWXBzSmttLUNtXzlxMnhPTUpmd0ZVdF8taFBVVFZWVGxjSEg5dGZRYW1DeVVPRkRReExKdC1SQlRIREJWamtCMk5ZUzIydkI5NkJFc2R1UzRTaVExdlp1ZzRpeWgtSXhveWJyUHVONmlUc0pSYXJwMUk5YnotVzVCTWpVWXU3a0JxdW1vQWNaLTQtSFhsd3pzc0xaNzdLRW5hbkhR?oc=5",
+        "pubDate": "2026-08-05T16:53:17",
+        "source": "Reuters"
+      },
+      {
+        "title": "Novo CEO looks to speed up R&D as share drop shows gap with Lilly",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTUY0eUx5RDNSLWFMbVdrSWYwNjNzNGRPX3RHRHJHSTJ4YmNXM3lTdWxxRFdlaWxxVVdYUUtMUFZrR1Npbm5QOW51TXN3QTFHbjRka2ZydlRnYlBCNUlLQzBxSkYzSHAweml2bUtPbHlJcWNTcWdDeWFPNktUVjVnVG9pTzdxdDNHLUZ6cXNEYTdUdVdheW5VZldHM0hjRTFwcWI5SGxlelIwZGVZQmw1OHdqWndMbzFhQ1lRaWpnZHNmc1NWSjA0NkpwaTk?oc=5",
+        "pubDate": "2026-08-05T15:24:10",
+        "source": "Reuters"
+      },
+      {
+        "title": "Eli Lilly and Novo Nordisk raise profit outlook as weight-loss drug demand soars",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQY1A1SnVrV20wRl9odFVrRkdfLVptdW1LZy1oSmxZekJiMG5LZk9peEEwN1dZMi01Q2g1SlZVLW9sbUg2LWhTQWpfU2ZtTTFzVjY1RUtGckNyVHVSbG1sU2dna0tFMkhCaWdrdmdDTFBKSUpidTFQUTk2YWx5dTJYMUg0WHY?oc=5",
+        "pubDate": "2026-08-05T12:01:41",
+        "source": "Financial Times"
+      },
+      {
+        "title": "Novo Nordisk CEO addresses investors' high Wegovy pill expectations",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZUNlMnBfellnQXpZeXdHNHBxUGMzNG1kUXNXR3oyUDJPc3JvNkFQdnFuWm40RjhBenZaWEVJUUtqZ0JJRHpDa3pwcXdjRzAzM2MtMlNyUHgxQ0hTNVF6aEJuWmtseWZ4QlBobTVweUJWeUd0eHl2QzZMbVZKejlLOUdET0I5WlhVZjRaRThGY2xNbUVBOFRHeldmNmt4TGc3blpIdk1fOEZSVFdNaGc?oc=5",
+        "pubDate": "2026-08-05T08:27:00",
+        "source": "CNBC"
+      },
       {
         "title": "CNBC Daily Open: Markets rally on hopes of Iran-U.S. Strait of Hormuz deal",
         "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbEFPb1oxS05DWkZFcWo1elI2aFhPUnBWdlRMc2R3TFQ3Vk1yTUdlYlpVYzd5MkpCWUlLVEZQUThfT1FaWGNrcDVMdDF6UzZoaEQ4ZnZsbVhYUXZGYVI0eHN2WC0yVWZieVZ1c015bHhKTzVLWlhmckdRNUdpRXpMNUs4YUYtM1BCRHNCc3N30gGTAUFVX3lxTE93M21veUtjT3ZkemtoM0hDeEJnMlJKaWtEOHNpRVpObWhadnlvOEJTU2hPdVJmRUo2anYxUFZRTkthMDM2Vkd0UW90WHpZODY2SWZidHE2N05jM3NyeUxWTklkTTZBV3JfMks5aUdfQXFZaU1DTlM1ejA5aFVlSXg1VXNLYUNyU2h0YmhFTmtEblpqYw?oc=5",
@@ -27,6 +75,12 @@
         "source": "Reuters"
       },
       {
+        "title": "Wegovy-Maker Novo Nordisk Raises Full-Year Guidance",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQYm1XT1dKU0pPek93QzZtNUsySzdmQ1VEUWE1bFhoeHp4M3Y2MUN3MXcyQ3M0S3JockM4Qk42OFdYMTY1V0YxQUExVktrSlphbFc5VmEyY3NNYXE1eVdJVWNwa3dwUzhvbXJLMUNxM09JUE8teW1BNnlGNVZXNVNyMUNjT0g0cVN2ZGRLNXN2NTFXTmczNXJXa0piSmZ1Vk56bkFZTE1FUTRHLXJRRzNN?oc=5",
+        "pubDate": "2026-08-04T18:15:00",
+        "source": "WSJ"
+      },
+      {
         "title": "Novo Nordisk shares slide after guidance disappoints investors",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQy1sUGkwU20ybFVsNVpMNThoaHllSlVwSTZtMUkwX3hrMGVEZ3BWWTc3UDR3dXoxdHl3REFWRnMycGtlZG1RV0F3bHhaWk9sa2JLWDBWeUtfaS1uTEFXMi1abUgzRHhxd29QSVdhMzhDVU9kcUxKdFBUVFFhU2Jycnl2MWRGaGfSAYwBQVVfeXFMUE5ZWkdtWVE4alFkd1ZjNU02T0pCbGtGd0c3dnlHVlFlUUcyQnRKT1B0dWM3Q0tmQ0p3WExUdFdmeE9WNmhtS3NKUVotVzYtOGtTRk1WTl9OamJBTjVGNHFnekZtV2p2bFBvbDhob09vWGNJc3BBUXBhanlJZ01yTno0UW9PR3pLOUpQWUs?oc=5",
         "pubDate": "2026-08-04T17:30:15",
@@ -37,6 +91,18 @@
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMU9YM1lUN0Jfc0lrcks5TWRmNTY4aU5PbF9hU1ZkOFBENUlwUHpRTWdDUVZvYnplbFk5UDFORERBZ1lDOS1LY1BhdktYVS0yNUFvY2pxa0hHQ0s3a2lEOVRuRnpydjVtSkNRREdJaTJ6N2tpSVhwTWZtOU5ockRZQ0t6SE1GY19qUzJPeWcyTmFFazdQd1RjclVNZlNNWVhMekRGYktVU0EyZU5keDg4Nw?oc=5",
         "pubDate": "2026-08-04T16:56:21",
         "source": "Investing.com"
+      },
+      {
+        "title": "Novo Nordisk Boosts Forecast on Soaring GLP-1 Sales",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNEN6ZjFmX2EzdXRqU1Q4VUhBclJob1V2UEs4eDQzY2FMRWdmbjhzRGFubXFNQ1g3TDZCelMybTExb3E2Um9ncnpZRks2OG1ZeS1DdlhMZ1kxY01SYnBvUm9vcy1LRmluOWg5NFZTWHJOYzJvWFVNYW1JaEtOaWhtMWlxT2ZTeDNRYnRKTGVMR1ZqeEkzUEc3MjJBTjlmcVFJQTZwZg?oc=5",
+        "pubDate": "2026-08-04T16:48:40",
+        "source": "Bloomberg.com"
+      },
+      {
+        "title": "‘Arrogance kills’: Novo chief injects risk-taking into Ozempic maker",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOd0dEZGd2dWY4Y1AzbDRGSjMyWk5KZkNjOG4tdzEyMF8xbDlHOWtIV0pmVm5jZ1dvUjgxdnlDZk9JRXpqdWtUY3ZFVEIxTkdmcndDZUlLLUkzUEtZbXZxYkNTT3lSYlJvcjIxUWJmOUh2QUNjazNwSTFjNTBoSmYxZ0R3MDY?oc=5",
+        "pubDate": "2026-08-04T04:00:53",
+        "source": "Financial Times"
       },
       {
         "title": "Obesity battle heats up again as Novo claws its way back into race with Lilly",
@@ -2602,6 +2668,18 @@
       }
     ],
     "Hyundai E&C": [
+      {
+        "title": "Hyundai Engineering and KOSME fund mutual aid to retain safety, quality staff in Korea",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOakNCak1ZMWdHcERXajFvemVKeUJkYlZ5MVJkVnZBRGh3YkQ0NVRXRC1kNnZmZGRoWWhFNmVvam1ocWV5SElOMDZ3eVYyeC13ekFvdlNkeUdwczd1UG13Qm42MTZwdGkwVFpDN3RpX3lqLTNEVkRVYlJ3SnRLRjg2aWpHOTnSAZgBQVVfeXFMTmdMYWl6NXg2a3FPbGppSHZoVGJrdmFPM0t4b2FfOE1BT0FHaVcxUjByX2dEdWJFUG0tTHFfMDZld2UwcGFqcHpGOUpwZ1AtMk1pbHZvNldxQ1BFbkNfSnNUaW1aaXN2SnBqRlJJcXl6WmFPLVVYTWRKTVhWUEhweDAyRzBEVDhaRVYxb3VpOGM4c3FGZC1ETVI?oc=5",
+        "pubDate": "2026-08-06T01:17:00",
+        "source": "Chosunbiz"
+      },
+      {
+        "title": "Kosme and Hyundai Engineering boost retention of safety and quality staff in Korea",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPclJGN0NJVklRZDRMdHNIQ3V0TVBKRkVUdWpDb2Jwc25EaTZjSVBBMVFMc0hXRldBbUtSWW5QdWNpQV9IMm1jZXpjelVQc3UwQWxnSEswM093d3llaU5zQ3lDUHhQby1NVXJFYUY0X3VCLURYWE95M2EzOWZ0UFNKelRqLWhxTUFCb21IS2hqMjBNbk1OYVHSAZYBQVVfeXFMT3JSRjdDSVZJUWQ0THRzSEN1dE1QSkZFVHVqQ29icHNuRGk2Y0lQQTFRTHNIV0ZXQW1LUlluUHVjaUFfSDJtY2V6Y3pVUHN1MEFsZ0hLMDNPd3d5ZWlOc0N5Q1B4UG8tTVVyRWFGNF91Qi1EWFhPeTNhMzlmdFBTSnpUai1ocU1BQm9tSEtoajIwTW5NTmFR?oc=5",
+        "pubDate": "2026-08-06T00:14:00",
+        "source": "Chosunbiz"
+      },
       {
         "title": "Hyundai E&C bids Mok-dong 10 rebuild with Morphosis, Sasaki in South Korea",
         "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRWFqeHgyUFlfV3IxOFR4Q21TbjRTUlgwZXAwSDVQbEswT2hYdXAxcXlBOU5seWNEMVhVMWJ5cTFFcDU3NGFKWllsczBEaHJhQkFjQXNJOVpKYnlOcnNzSkFkY1RhNjBMQkVmOUI1VE1YYjhKLTBoMldoZFh0UlR3eFVuNGRwVmRrNHdDNWhKYmRsck9rUVZqc9IBmAFBVV95cUxNRWFqeHgyUFlfV3IxOFR4Q21TbjRTUlgwZXAwSDVQbEswT2hYdXAxcXlBOU5seWNEMVhVMWJ5cTFFcDU3NGFKWllsczBEaHJhQkFjQXNJOVpKYnlOcnNzSkFkY1RhNjBMQkVmOUI1VE1YYjhKLTBoMldoZFh0UlR3eFVuNGRwVmRrNHdDNWhKYmRsck9rUVZqcw?oc=5",
