@@ -1,7 +1,19 @@
 {
-  "lastUpdated": "2026-09-15T13:08:43.427696+00:00",
+  "lastUpdated": "2026-09-16T13:09:29.197995+00:00",
   "companies": {
     "Novo Nordisk": [
+      {
+        "title": "Novo Partners With Anthropic to Speed Up Drug Discovery Using Claude",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDByMU5QYk8zV1dFZ183Rmlocm9QS0dURE9HdXhiRjFwYXJuOXlZTnhXNjh1aWMwQzJoX3BFNk9GcllUZ01pUy1FYzJTMzNPVGRIdGZzV0RRa0FKakxXV3lBdnRVUEhnOE11YUpxdHJJcFByUEcxZ25EYVB3MlZkcnB0X1Q1b1JGWEJGNkloa3NnMHFtN05JZmJIUlhQSDh5YkRIVjRaM24?oc=5",
+        "pubDate": "2026-09-16T12:32:00",
+        "source": "WSJ"
+      },
+      {
+        "title": "Novo CEO urges staff to embrace more customer-focused culture",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcm9MOGJURVRsMEp5QUhycmRESlExYkpDWEpodHZ4VnBlLW5GTWwzWHlLZmN1SFE4YXM5SDBEMFFRQktRSjZiWXJRcVdWak9Cd1pyelVkYlRUc1NMWkRFc2hxaktJZzNralN2YVp1T295LXVFQmhNN1MyNERtMWN6SFp6eE54QnkyNTFNamtmTnU4cGVQTU5GbW1zV0VTU3VUZ0NnbS1zbFQ3T21qUFNobw?oc=5",
+        "pubDate": "2026-09-15T17:33:01",
+        "source": "Reuters"
+      },
       {
         "title": "Lilly says Foundayo has captured over 30% of new US patients on oral weight-loss drugs",
         "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOek55cURnNVVRbTZMOEdZTEpWaGdrc2s4Njk1RF9UTzZ5WTBURU9nUFZqeHdwVXhILUktelE2Tm82NGF3WEVGenlpOHczajhNUUw5WXVDS1p1LWdFRFFvUnpkQV80c0ZYelNCY182N0pQbnJoVzJPcUZrZnpQb0hPWmFBa1ZxTVZ2UllSWU5iVFVWc1dyWWtubE5mdndtT2pSM1piaG1fdG1XcDNjZzIwOWF4Yjc4MDIzYXZLTkJlbC10QUxSbGVLMGQyRW4?oc=5",
@@ -25,6 +37,18 @@
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVjJMbmlnR282UGFGbk5zQkNnQlQ2VzhxcGtOeUtYQnB3UWsxOTB4R0RzRXJPVEVTSldwd1doYzRBcWhwSmRFQ1pVRU5TWUFPVWhCNjRSUS12NFhBcmI1dDVoWWJ1ZzVEVDB5V0hyb015NnRMSzFwRHFhODF0VXNyODF6b1FzMnp1ajQ2QWhrOTB0eUhOSUJEbzFQZjlhUdIBngFBVV95cUxOcnhCeXcyQmpqbVJjekdiTWJ3QzhxZTF1T2tVYmJHbDJkUmphYndUNnFBWFY4bFAzSTh5VHlNZl9BNlQtN2swaEF3NEp0ZVlKZTNxYVcwWDFOTlgzYTl0OHpEQVVsZFFQUHUyMkQ5aFl6WXFvSE5pWWUtcllaYU1jWVlQVm1Ec2VlVU01SnJRUTRaUEI1QnExUXlucTFyZw?oc=5",
         "pubDate": "2026-09-14T09:26:54",
         "source": "South China Morning Post"
+      },
+      {
+        "title": "Novo ditches Nordisk from name as drugmaker attempts revival",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNcTQ2a3FvR2ZtVzVybUlvUTNFaGZUSmlmeFNaVXZLMDM1Ykd3OHVWUWduNi0yZ0FraDhNNDItZU5LQ2xkM09qMXhzRHpvVjEzc1JxNkYwRjFMbUxvZ3R0WTdHYVRDQkpPN1RRWTR5WHI3b3hMa2U2VldDNWRueEFwT2U5cEk?oc=5",
+        "pubDate": "2026-09-14T08:16:48",
+        "source": "Financial Times"
+      },
+      {
+        "title": "Novo Will Use Shorter Name to Boost Recognition in Obesity",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPME9LREZiM0xWY0psZ19yT1k5WHNiVHBTbUYzT014bmp6cjZ3Y1FMMzNnWUlkM0IwejJzOUFhYVJJTHloRWVVUW9RLWR6ay1XSXZ5Z2RmUEpWaEVxOEFLTVFXOUVseUNZTEtTNkVPZ3l3MHFzdnpXNTR2cXpzdmVFYlRFaFk1cGJHdEVVSTk2T2FONWhQOXBPSjBHTlRvRjVzaS1nVmM0ZXQyUEk3V2c?oc=5",
+        "pubDate": "2026-09-14T07:25:48",
+        "source": "Bloomberg"
       },
       {
         "title": "Novo Nordisk rebrands to 'Novo,' unveils corporate changes as it fights for obesity market share",
@@ -4315,6 +4339,12 @@
     ],
     "Kiwoom Securities": [
       {
+        "title": "Kiwoom Securities flags SAMHYUN rally on humanoid hype, urges risk control",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUnVuN29mVmg4UDVrcHk1V3B2NnRsWTZaNmsxa2NuVW5kb2ZWcFA4cEI2ZWJpZDVJSmZaREI3WmZiUUp2QlcwUE1kZGhla2g3cWFUd1lCUVBQSGdKZ0d6Y0hZT0VqYjlKSU5lYTVfbk1mSVBYdUszWkxUYTZvOHh5b1hSdHhDc1BseEhLU0FSeVB0OW5N0gGUAUFVX3lxTE9SdW43b2ZWaDhQNWtweTVXcHY2dGxZNlo2azFrY25VbmRvZlZwUDhwQjZlYmlkNUlKZlpEQjdaZmJRSnZCVzBQTWRkaGVraDdxYVR3WUJRUFBIZ0pnR3pjSFlPRWpiOUpJTmVhNV9uTWZJUFh1SzNaTFRhNm84eHlvWFJ0eENzUGx4SEtTQVJ5UHQ5bk0?oc=5",
+        "pubDate": "2026-09-16T00:05:00",
+        "source": "Chosunbiz"
+      },
+      {
         "title": "Kiwoom cuts Lotte Shopping target as department store growth slows, discounts lift",
         "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMExoZDQ4clNfWWZNamI5enF0NU5tNDZGTDgxcGU5ZHNudUl6YkRlQjNyeC1IbThLeGVsN2ZnNy1iMk9la29LSjNnN0RtV1dqalRTOW16RWpzUzhnTXpQdGFiRm9uaGZvSEhiWXVacHIyNDhMQXhOS3BUTFpaVFoyQtIBlAFBVV95cUxNSEY0MnA3ZDZSOEw3WmVEck9TM3lVSU9qb01sUWRxTWlYMlh4UFVCTW9KRGhYTGJEOGdBOV9jTy1nOS16WTUzMVpQcWF5NC1LSE9obFZLUW8wU2MwT2JONGpoNFBwNy1naklRSmtLSE84RFFHQVBzZUl6M180M2JWeHBKdU4ta2lvR2EybG1YTXF4Yzly?oc=5",
         "pubDate": "2026-09-07T23:39:00",
@@ -5427,6 +5457,12 @@
     ],
     "Woori Financial Group": [
       {
+        "title": "Woori Bank's prepaid card for foreign visitors surpasses 10,000 issuances amid rising inbound tourism",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQMzlxZ1ZvZ0NleTNuM2dvWTMyTGR3Wk9zRHM0V3hqWTE0aVBTcDVaMkZLV0tFWU0yWE9xajdfNkpZbGxJN1VtbUVWeVZBTkgzSm12dXdncUMzckxnVkpraUhldllNcTU5aDc0Sm1Wai12dmRkcHhKbUtaS2pzcm1OWW5YN25UU3FYUFdFUUd2Vm03d3NabEJxV3hGQXN1eXlhUU5TSDNOb3NnUkdFSHRiVlVhVDBnUjh4QU1hTXRRT083Znd6ZHpFdjd1YlZ4WWpzWDNCNXhCN0tWN3FJUzAyREUzcVd6MmpWUF9yNnBPQm9nYm9ZbE1yeEd30gH6AUFVX3lxTFAzOXFnVm9nQ2V5M24zZ29ZMzJMZHdaT3NEczRXeGpZMTRpUFNwNVoyRktXS0VZTTJYT3FqN182SllsbEk3VW1tRVZ5VkFOSDNKbXZ1d2dxQzNyTGdWSmtpSGV2WU1xNTloNzRKbVZqLXZ2ZGRweEptS1pLanNybU5Zblg3blRTcVhQV0VRR3ZWbTd3c1psQnFXeEZBc3V5eWFRTlNIM05vc2dSR0VIdGJWVWFUMGdSOHhBTWFNdFFPTzdmd3pkekV2N3ViVnhZanNYM0I1eEI3S1Y3cUlTMDJERTNxV3oyalZQX3I2cE9Cb2dib1lsTXJ4R3c?oc=5",
+        "pubDate": "2026-09-16T06:27:03",
+        "source": "The Korea Times"
+      },
+      {
         "title": "KB succession surprise reshapes year-end bank appointments",
         "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE83RWhPb3F4T0NPcGVQZ0d6OWNSa0IxaVVoSTJUZFV6ZnhJT1YxaW9CbkxnS2R6ZTc1U1JoaS1IWWFuS1ZEWndYYy1oNHh4ZWx2MGxPQXAzOA?oc=5",
         "pubDate": "2026-09-15T06:50:15",
@@ -5466,6 +5502,12 @@
         "title": "Woori Bank leaps forward with improving credit ratings, rising foreigner ownership",
         "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQeU5Vd0NjWkhiNzNsTjd0TnJUbEIxNTZJUjBqR0U2V2I2b2NmME42c1hqeG85a0I0OXhJbjFyRGYwMVVuRHFJMjN5Mjd2Q0E5d21zX29UWFlUTHhyVEhvbzR1MkwzV3Z0SHZmTG1BczRZSzFfVG9UYlRoMmhBOTVncHE5ZDdFVlZXR0U5RGJ0b2VVb3VWMl9FOVpxNVNfT3VPS05RakFnX3g5aHlmTF95WkpndTFDa2VjVlFyYXl0T3cteFo1c2Yzb09fcVRkOWVlYm9xTzUtRUlBRUZk0gHiAUFVX3lxTFB4RDg5R2ZSbzFhLTlTQmZuUHVKMUlYZ3RYN1JaeDR6UW80ektIQlc5T2NBMTBMSEpRcUxId2FtZENrSEc0QjRkREtkX0ZRRXYteWNvd0lmWndFTVNNclRMdHdLRGxwa29Xb1E1VGg0azlMMFdMVHJBWnNRbDU5SEI0Y1BxRWkwWUlnX0NhYVBjUDVXaFA1cUZ6ZmFxd3JIMmhGbWg4cUF4NnlZU25vWGhmRmlSU0tsSlZMNGpDeGNOWmFNeFg5N3Vjekk0SktnU2NDcmJ6ck8yNlFVRFROMWRDUWc?oc=5",
         "pubDate": "2026-09-07T07:03:03",
+        "source": "The Korea Times"
+      },
+      {
+        "title": "Woori Bank leaps forward with improving credit ratings, rising foreigner ownership",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvMk51Wk5jWTRzT242SFRHMFF4Nld5c25WMjNfcnlqRWJ5RDF3NnF0MC1OZ0c4RHVfcmwwdEZtZ1RKSE5VRUE0T3F4QkdjemVIMDFscFA3bmc3bkFRWXdNelIzYmEtWDdtU3RBYnA1cUR6X01JOE14S0Q5bErSAeIBQVVfeXFMUHhEODlHZlJvMWEtOVNCZm5QdUoxSVhndFg3Ulp4NHpRbzR6S0hCVzlPY0ExMExISlFxTEh3YW1kQ2tIRzRCNGRES2RfRlFFdi15Y293SWZad0VNU01yVEx0d0tEbHBrb1dvUTVUaDRrOUwwV0xUckFac1FsNTlIQjRjUHFFaTBZSWdfQ2FhUGNQNVdoUDVxRnpmYXF3ckgyaEZtaDhxQXg2eVlTbm9YaGZGaVJTS2xKVkw0akN4Y05aYU14WDk3dWN6STRKS2dTY0NyYnpyTzI2UVVEVE4xZENRZw?oc=5",
+        "pubDate": "2026-09-07T07:00:00",
         "source": "The Korea Times"
       },
       {
